@@ -1,0 +1,511 @@
+{
+    "Champion": {
+        "page": "vgm 212",
+        "alignment": "Any",
+        "xp": "5000",
+        "name": "Champion",
+        "type": "Humanoid",
+        "challenge": "9",
+        "size": "Medium"
+    },
+    "Guard": {
+        "name": "Guard",
+        "type": "Humanoid",
+        "challenge": "1/8",
+        "size": "Medium",
+        "environment": {
+            "Mountain": "yes",
+            "Grassland": "yes",
+            "Desert": "yes",
+            "Coastal": "yes",
+            "Forest": "yes",
+            "Urban": "yes",
+            "Hill": "yes"
+        },
+        "page": "mm 347",
+        "xp": "25"
+    },
+    "Warlock of the Fiend": {
+        "xp": "2900",
+        "alignment": "Any",
+        "page": "vgm 219",
+        "size": "Medium",
+        "challenge": "7",
+        "name": "Warlock of the Fiend",
+        "type": "Humanoid"
+    },
+    "Bandit": {
+        "size": "Medium",
+        "name": "Bandit",
+        "xp": "25",
+        "page": "mm 343",
+        "environment": {
+            "Hill": "yes",
+            "Urban": "yes",
+            "Forest": "yes",
+            "Arctic": "yes",
+            "Coastal": "yes",
+            "Desert": "yes"
+        },
+        "challenge": "1/8",
+        "type": "Humanoid",
+        "alignment": "Any non-lawful"
+    },
+    "Master Thief": {
+        "size": "Medium",
+        "challenge": "5",
+        "name": "Master Thief",
+        "type": "Humanoid",
+        "xp": "1800",
+        "alignment": "Any",
+        "page": "vgm 216"
+    },
+    "Warlock of the Archfey": {
+        "name": "Warlock of the Archfey",
+        "type": "Humanoid",
+        "challenge": "4",
+        "size": "Medium",
+        "page": "vgm 219",
+        "alignment": "Any",
+        "xp": "1100"
+    },
+    "Blackguard": {
+        "xp": "3900",
+        "page": "vgm 211",
+        "alignment": "Any non-good",
+        "size": "Medium",
+        "name": "Blackguard",
+        "type": "Humanoid",
+        "challenge": "8"
+    },
+    "Swashbuckler": {
+        "size": "Medium",
+        "challenge": "3",
+        "name": "Swashbuckler",
+        "type": "Humanoid",
+        "xp": "700",
+        "alignment": "Any non-lawful",
+        "page": "vgm 217"
+    },
+    "Bandit Captain": {
+        "xp": "450",
+        "page": "mm 344",
+        "size": "Medium",
+        "name": "Bandit Captain",
+        "alignment": "Any non-lawful",
+        "environment": {
+            "Desert": "yes",
+            "Forest": "yes",
+            "Hill": "yes",
+            "Urban": "yes",
+            "Coastal": "yes",
+            "Arctic": "yes"
+        },
+        "type": "Humanoid",
+        "challenge": "2"
+    },
+    "Martial Arts Adept": {
+        "size": "Medium",
+        "challenge": "3",
+        "type": "Humanoid",
+        "name": "Martial Arts Adept",
+        "xp": "700",
+        "alignment": "Any",
+        "page": "vgm 216"
+    },
+    "Necromancer": {
+        "page": "vgm 217",
+        "alignment": "Any",
+        "xp": "5000",
+        "type": "Humanoid",
+        "name": "Necromancer",
+        "challenge": "9",
+        "size": "Medium"
+    },
+    "Enchanter": {
+        "challenge": "5",
+        "type": "Humanoid",
+        "name": "Enchanter",
+        "size": "Medium",
+        "alignment": "Any",
+        "page": "vgm 213",
+        "xp": "1800"
+    },
+    "Noble": {
+        "size": "Medium",
+        "environment": {
+            "Urban": "yes"
+        },
+        "name": "Noble",
+        "type": "Humanoid",
+        "challenge": "1/8",
+        "xp": "25",
+        "page": "mm 348"
+    },
+    "Apprentice Wizard": {
+        "size": "Medium",
+        "name": "Apprentice Wizard",
+        "type": "Humanoid",
+        "challenge": "1/4",
+        "xp": "50",
+        "page": "vgm 209",
+        "alignment": "Any"
+    },
+    "Cult Fanatic": {
+        "alignment": "Any non-good",
+        "environment": {
+            "Urban": "yes"
+        },
+        "type": "Humanoid",
+        "challenge": "2",
+        "xp": "450",
+        "page": "mm 345",
+        "size": "Medium",
+        "name": "Cult Fanatic"
+    },
+    "Priest": {
+        "page": "mm 348",
+        "xp": "450",
+        "challenge": "2",
+        "name": "Priest",
+        "type": "Humanoid",
+        "environment": {
+            "Urban": "yes"
+        },
+        "size": "Medium"
+    },
+    "Bard": {
+        "size": "Medium",
+        "challenge": "2",
+        "type": "Humanoid",
+        "name": "Bard",
+        "xp": "450",
+        "alignment": "Any",
+        "page": "vgm 211"
+    },
+    "War Priest": {
+        "alignment": "Any",
+        "page": "vgm 218",
+        "xp": "5000",
+        "challenge": "9",
+        "name": "War Priest",
+        "type": "Humanoid",
+        "size": "Medium"
+    },
+    "Transmuter": {
+        "xp": "1800",
+        "page": "vgm 218",
+        "alignment": "Any",
+        "size": "Medium",
+        "type": "Humanoid",
+        "name": "Transmuter",
+        "challenge": "5"
+    },
+    "Conjurer": {
+        "type": "Humanoid",
+        "name": "Conjurer",
+        "challenge": "6",
+        "size": "Medium",
+        "page": "vgm 212",
+        "alignment": "Any",
+        "xp": "2300"
+    },
+    "Knight": {
+        "page": "mm 347",
+        "xp": "700",
+        "challenge": "3",
+        "name": "Knight",
+        "type": "Humanoid",
+        "environment": {
+            "Urban": "yes"
+        },
+        "size": "Medium"
+    },
+    "Commoner": {
+        "environment": {
+            "Coastal": "yes",
+            "Arctic": "yes",
+            "Forest": "yes",
+            "Urban": "yes",
+            "Hill": "yes",
+            "Grassland": "yes",
+            "Desert": "yes"
+        },
+        "type": "Humanoid",
+        "challenge": 0,
+        "alignment": "Any",
+        "size": "Medium",
+        "name": "Commoner",
+        "xp": "10",
+        "page": "mm 344"
+    },
+    "Scout": {
+        "size": "Medium",
+        "environment": {
+            "Jungle": "yes",
+            "Desert": "yes",
+            "Forest": "yes",
+            "Mountain": "yes",
+            "Grassland": "yes",
+            "Underdark": "yes",
+            "Swamp": "yes",
+            "Coastal": "yes",
+            "Arctic": "yes",
+            "Hill": "yes"
+        },
+        "name": "Scout",
+        "type": "Humanoid",
+        "challenge": "1/2",
+        "xp": "100",
+        "page": "mm 349"
+    },
+    "Veteran": {
+        "page": "mm 350",
+        "xp": "700",
+        "name": "Veteran",
+        "type": "Humanoid",
+        "challenge": "3",
+        "size": "Medium",
+        "environment": {
+            "Forest": "yes",
+            "Coastal": "yes",
+            "Arctic": "yes",
+            "Urban": "yes",
+            "Hill": "yes",
+            "Mountain": "yes",
+            "Grassland": "yes",
+            "Underdark": "yes"
+        }
+    },
+    "Archdruid": {
+        "page": "vgm 210",
+        "alignment": "Any",
+        "xp": "8400",
+        "type": "Humanoid",
+        "name": "Archdruid",
+        "challenge": "12",
+        "size": "Medium"
+    },
+    "Illusionist": {
+        "alignment": "Any",
+        "page": "vgm 214",
+        "xp": "700",
+        "challenge": "3",
+        "name": "Illusionist",
+        "type": "Humanoid",
+        "size": "Medium"
+    },
+    "Thug": {
+        "type": "Humanoid",
+        "name": "Thug",
+        "challenge": "1/2",
+        "size": "Medium",
+        "environment": {
+            "Urban": "yes"
+        },
+        "page": "mm 350",
+        "xp": "100"
+    },
+    "Diviner": {
+        "page": "vgm 213",
+        "alignment": "Any",
+        "xp": "3900",
+        "name": "Diviner",
+        "type": "Humanoid",
+        "challenge": "8",
+        "size": "Medium"
+    },
+    "Acolyte": {
+        "size": "Medium",
+        "name": "Acolyte",
+        "xp": "50",
+        "page": "mm 342",
+        "environment": {
+            "Urban": "yes"
+        },
+        "type": "Humanoid",
+        "challenge": "1/4",
+        "alignment": "Any"
+    },
+    "Archer": {
+        "name": "Archer",
+        "type": "Humanoid",
+        "challenge": "3",
+        "size": "Medium",
+        "page": "vgm 210",
+        "alignment": "Any",
+        "xp": "700"
+    },
+    "Abjurer": {
+        "size": "Medium",
+        "challenge": "9",
+        "name": "Abjurer",
+        "type": "Humanoid",
+        "xp": "5000",
+        "alignment": "Any",
+        "page": "vgm 209"
+    },
+    "Assassin": {
+        "environment": {
+            "Urban": "yes"
+        },
+        "type": "Humanoid",
+        "challenge": "8",
+        "alignment": "Any non-good",
+        "size": "Medium",
+        "name": "Assassin",
+        "xp": "3900",
+        "page": "mm 343"
+    },
+    "Warlord": {
+        "challenge": "12",
+        "type": "Humanoid",
+        "name": "Warlord",
+        "size": "Medium",
+        "alignment": "Any",
+        "page": "vgm 220",
+        "xp": "8400"
+    },
+    "Druid": {
+        "xp": "450",
+        "page": "mm 346",
+        "size": "Medium",
+        "name": "Druid",
+        "alignment": "Any",
+        "environment": {
+            "Arctic": "yes",
+            "Coastal": "yes",
+            "Hill": "yes",
+            "Mountain": "yes",
+            "Underdark": "yes",
+            "Swamp": "yes",
+            "Grassland": "yes",
+            "Forest": "yes",
+            "Desert": "yes"
+        },
+        "type": "Humanoid",
+        "challenge": "2"
+    },
+    "Spy": {
+        "size": "Medium",
+        "environment": {
+            "Urban": "yes"
+        },
+        "name": "Spy",
+        "type": "Humanoid",
+        "challenge": "1",
+        "xp": "200",
+        "page": "mm 349"
+    },
+    "Kraken Priest": {
+        "xp": "1800",
+        "alignment": "Any",
+        "page": "vgm 215",
+        "size": "Medium",
+        "challenge": "5",
+        "name": "Kraken Priest",
+        "type": "Humanoid"
+    },
+    "Mage": {
+        "name": "Mage",
+        "type": "Humanoid",
+        "challenge": "6",
+        "size": "Medium",
+        "environment": {
+            "Urban": "yes"
+        },
+        "page": "mm 347",
+        "xp": "2300"
+    },
+    "Warlock of the Great Old One": {
+        "page": "vgm 220",
+        "alignment": "Any",
+        "xp": "2300",
+        "type": "Humanoid",
+        "name": "Warlock of the Great Old One",
+        "challenge": "6",
+        "size": "Medium"
+    },
+    "Evoker": {
+        "page": "vgm 214",
+        "alignment": "Any",
+        "xp": "5000",
+        "name": "Evoker",
+        "type": "Humanoid",
+        "challenge": "9",
+        "size": "Medium"
+    },
+    "Berserker": {
+        "page": "mm 344",
+        "xp": "450",
+        "name": "Berserker",
+        "size": "Medium",
+        "alignment": "Any chaotic",
+        "type": "Humanoid",
+        "challenge": "2",
+        "environment": {
+            "Forest": "yes",
+            "Hill": "yes",
+            "Coastal": "yes",
+            "Arctic": "yes",
+            "Desert": "yes",
+            "Mountain": "yes"
+        }
+    },
+    "Archmage": {
+        "name": "Archmage",
+        "size": "Medium",
+        "page": "mm 342",
+        "xp": "8400",
+        "type": "Humanoid",
+        "challenge": "12",
+        "environment": {
+            "Urban": "yes"
+        },
+        "alignment": "Any"
+    },
+    "Tribal Warrior": {
+        "page": "mm 350",
+        "xp": "25",
+        "challenge": "1/8",
+        "name": "Tribal Warrior",
+        "type": "Humanoid",
+        "environment": {
+            "Mountain": "yes",
+            "Swamp": "yes",
+            "Underdark": "yes",
+            "Grassland": "yes",
+            "Arctic": "yes",
+            "Coastal": "yes",
+            "Hill": "yes",
+            "Jungle": "yes",
+            "Desert": "yes",
+            "Forest": "yes"
+        },
+        "size": "Medium"
+    },
+    "Cultist": {
+        "environment": {
+            "Urban": "yes"
+        },
+        "challenge": "1/8",
+        "type": "Humanoid",
+        "alignment": "Any non-good",
+        "size": "Medium",
+        "name": "Cultist",
+        "xp": "25",
+        "page": "mm 345"
+    },
+    "Gladiator": {
+        "environment": {
+            "Urban": "yes"
+        },
+        "type": "Humanoid",
+        "challenge": "5",
+        "alignment": "Any",
+        "size": "Medium",
+        "name": "Gladiator",
+        "xp": "1800",
+        "page": "mm 346"
+    }
+}

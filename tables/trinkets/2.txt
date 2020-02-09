@@ -1,0 +1,100 @@
+A stone figure of a snake that changes positions after every full moon.
+A silver key of unknown origins on a leather cord as a pendant that emits strange magical energy.
+The right half of a broken bronze circlet with a light leafy pattern that when placed on your head, stays in place as though the other half was still there.
+A small silver rod which when rolled between your hands emits sounds as though a lute were being played by a master softly nearby.
+A music box that can only be heard by someone who as wound it at least once.
+A small stone cube that, when tapped with a rod of metal, looks as though it were made of that metal for a few seconds.
+A wooden sphere with a white marking that always faces the sun, and a black marking that always faces the moon.
+An opaque jar that cannot be opened or broken, no matter how hard you try.
+A journal that details the great adventures of a hero you have never heard of, complete with vivid descriptions of nonsensical creatures and terms, all written in messy handwriting, but with impressive diction.
+A tiny sack that, when opened, is full of sand, but feels as heavy as a large stone when lifted.
+A puppet in the likeness of someone you distantly know, that echoes your movements when you (and only you) place it on the ground.
+An iron rod that bends in unusual ways when you look directly at it, but rights itself when you look away.
+A book that perfectly records the holder's dreams when held while sleeping.
+A tin pot that is just the right size for you to wear as a helmet.
+A marble sculpture of a tiny elf holding a lute seated on a chair that plays music every so often.
+A piece of pure white cloth that never gets dirty.
+A hat that never gets wet.
+A mask that copies its wearer's facial expressions.
+A humanoid skull with ethereal green orbs in its eye sockets.
+A wineskin that only holds wine. Any other liquid pours out after a few seconds.
+A leather belt that, when worn, glows with faint blue light.
+A tiny javelin with an ornately carved shaft that always returns when thrown, exactly halfway between you and the person closest to you.
+A sphere of crystal with a tiny shard of obsidian at the exact centre.
+A flask that freezes any liquids stored in it at midnight, and unfreezes them at noon.
+A book with words that change every time it is read.
+A chain that feels warm when its holder is standing directly beside an awakened tree.
+A cube with tiny animals wandering on each face that change when they cross onto a different face.
+The preserved hand of a famous noble that moves when pointed at the ground.
+A terribly written novel whose plot seems to match events that have happened in your life.
+A recount of a famous battle that contradicts what is commonly thought about that battle, written by a great sage who was present.
+A crown made out of ice that never melts.
+A piece of string that always emits smoke.
+A rod of indeterminate metal that changes its length at random every other day.
+The hilt of a dagger that was used to assassinate a king, with an onyx on the end that glows ominously on nights with a full moon.
+A stone carved to look like a head that occasionally speaks, asking questions that change every time.
+A stick that glows brightly when held by an undead creature.
+A flute that, when played, makes the sound of a random instrument, though never a flute.
+An invitation to an event that has already ended.
+A copper ring that feels abnormally light.
+A turban that, when worn, makes your steps feel very light.
+A cube of glass with mysterious runes etched on each corner.
+A towel with a set of instructions embroidered on it that clearly state to wear it on the head in case of mind flayer attack.
+A rose that, when placed in a bouquet with exactly 5 other flowers, glows brightly, and seems to move.
+A set of brass wind chimes that only chime when hung on a rod of precious metal.
+A grotesque statuette of a humanoid with rat-like features.
+A drawing of a spider with twelve legs being used as a mount by a crudely drawn hobgoblin without a head, with a set of poems on the back written in poor Common.
+The badge of a powerful organisation, with writing etched on the back that defames that group.
+The diary of a prison guard with half of the pages written in a different language.
+A handbook of etiquette for nobles of an empire that fell.
+A translation guide for a fictional language.
+The head of a pickaxe that was used in a lost gold mine, with names carved in Dwarvish runes along the sides.
+A wooden plank that refuses to burn.
+A detailed guide on the anatomy of rocs.
+A muddy book with a single phrase repeated over and over.
+A surprisingly realistic replica of a rakshasa hand.
+A stone rod with a tin coating that has worn through in several places.
+A compass that points towards the nearest bottle of rum.
+A stone that feels very heavy, yet floats effortlessly.
+A map with no key or locations, only red circles with lines connecting them.
+A shard of glass that floats a tiny distance off of the ground when near an open flame.
+A diagram of a forest on an island with no named artist.
+An orb that glows with a flash of green light at noon.
+A locket with a strange rune carved inside.
+A green coat with numerous pockets, each with a separate piece of a moustache trimming kit inside.
+A silver plate that feels rough, though it were made from coarse stone, but never feels painful to touch.
+A figurine of a fiend, so lifelike it seems like it might come to life and attack any second.
+A sapling that cannot be placed into soil, but never dies and has a single sweet fruit on its branches that grows back after one day when picked.
+A red coat that makes you feel colder when it is worn.
+A vial of tree sap.
+A rod of metal that produces tiny sparks from a red marking when a black button on the other end is pressed.
+A wooden cane that, when placed on the ground, stands perfectly straight, and cannot be tipped over.
+A bottle of red liquid that sparkles ever so slightly under direct moonlight, with a faded blue label that cannot be read.
+A sack of shed dragon claws.
+A feather with a piece of red string tied on the end of the shaft.
+An engagement ring that belonged to one of your parents.
+A book that you faintly remember from your childhood that you thought was lost for many years.
+An odd stone that seems to permeate energy.
+A sword sized for a child.
+A vial of water from a hot spring.
+A squat metal tin full of brown powder that always feels cold to the touch, regardless of the temperature.
+A glove worn by someone you deeply admire.
+A shard of crystal that glows when near places dedicated to a certain deity, and glows brighter the closer you are.
+A tome from an abandoned library.
+A gear that refuses to mesh with any other.
+A box of nuts that feel like they are made from metal, but can be eaten as though they were normal.
+A tree branch with an odd symbol.
+A yew wood figurine of a satyr with wings, carrying a willow wood staff.
+A suit of armour made from oak wood, sized for a doll, painted in vivid red and black.
+A stone with odd indentations, that seem to spell out a message of some kind.
+A vial of mysterious pale blue liquid that slithers back in when poured out, and has a pleasant floral scent.
+A jug that turns liquids stored in it into milk after a few minutes.
+A seed that never grows when planted, but looks very similar to an acorn with a few green lumps.
+A waxy white flower that constantly moves as though a gust of wind were blowing it around.
+A robe with a tag on the inside that reads "to my dearest pupil," given to you by someone you deeply respect.
+A tome filled with cryptic writings, all in Common, but with confusing terminology.
+A beige jar of red ointment without a label.
+A famous calligrapher's personal brush.
+A band of iron that shines brilliantly despite being completely rusted.
+A small cylinder of stone that smells faintly of blood.
+A tunic that smells of saltwater and bears the emblem of an established land-locked nation on the front.

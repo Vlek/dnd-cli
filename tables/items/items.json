@@ -1,0 +1,2781 @@
+{
+    "Horn of Valhalla, Iron": {
+        "name": "Horn of Valhalla, Iron",
+        "rarity": "Legendary",
+        "attunement": "no",
+        "page": "dmg 175",
+        "type": "Wondrous Item"
+    },
+    "Bead of Refreshment": {
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "xge 136",
+        "rarity": "Common",
+        "name": "Bead of Refreshment"
+    },
+    "Ring of X-ray Vision": {
+        "attunement": "yes",
+        "page": "dmg 193",
+        "type": "Ring",
+        "rarity": "Rare",
+        "name": "Ring of X-ray Vision"
+    },
+    "Wand of Magic Detection": {
+        "rarity": "Uncommon",
+        "name": "Wand of Magic Detection",
+        "type": "Wand",
+        "page": "dmg 211",
+        "attunement": "no"
+    },
+    "Belt of Fire Giant Strength": {
+        "name": "Belt of Fire Giant Strength",
+        "rarity": "Very Rare",
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 155"
+    },
+    "Belt of Storm Giant Strength": {
+        "rarity": "Legendary",
+        "name": "Belt of Storm Giant Strength",
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 155"
+    },
+    "Bracers of Defense": {
+        "rarity": "Rare",
+        "name": "Bracers of Defense",
+        "type": "Wondrous Item",
+        "page": "dmg 156",
+        "attunement": "yes"
+    },
+    "Gloves of Thievery": {
+        "page": "dmg 172",
+        "type": "Wondrous Item",
+        "attunement": "no",
+        "rarity": "Uncommon",
+        "name": "Gloves of Thievery"
+    },
+    "Goggles of Night": {
+        "rarity": "Uncommon",
+        "name": "Goggles of Night",
+        "type": "Wondrous Item",
+        "page": "dmg 172",
+        "attunement": "no"
+    },
+    "Alchemy Jug": {
+        "page": "dmg 150",
+        "type": "Wondrous Item",
+        "attunement": "no",
+        "name": "Alchemy Jug",
+        "rarity": "Uncommon"
+    },
+    "Potion of Poison": {
+        "page": "dmg 188",
+        "type": "Potion",
+        "attunement": "no",
+        "rarity": "Uncommon",
+        "name": "Potion of Poison"
+    },
+    "Headband of Intellect": {
+        "page": "dmg 173",
+        "type": "Wondrous Item",
+        "attunement": "yes",
+        "name": "Headband of Intellect",
+        "rarity": "Uncommon"
+    },
+    "Cube of Force": {
+        "rarity": "Rare",
+        "name": "Cube of Force",
+        "attunement": "yes",
+        "page": "dmg 159",
+        "type": "Wondrous Item"
+    },
+    "Ring of Feather Falling": {
+        "attunement": "yes",
+        "type": "Ring",
+        "page": "dmg 191",
+        "name": "Ring of Feather Falling",
+        "rarity": "Rare"
+    },
+    "Rod of Rulership": {
+        "page": "dmg 197",
+        "type": "Rod",
+        "attunement": "yes",
+        "name": "Rod of Rulership",
+        "rarity": "Rare"
+    },
+    "Amulet of Proof Against Detection and Location": {
+        "attunement": "yes",
+        "page": "dmg 150",
+        "type": "Wondrous Item",
+        "name": "Amulet of Proof Against Detection and Location",
+        "rarity": "Uncommon"
+    },
+    "Wand of Secrets": {
+        "name": "Wand of Secrets",
+        "rarity": "Uncommon",
+        "page": "dmg 211",
+        "type": "Wand",
+        "attunement": "no"
+    },
+    "Ioun Stone, Fortitude": {
+        "page": "dmg 176",
+        "type": "Wondrous Item",
+        "attunement": "yes",
+        "name": "Ioun Stone, Fortitude",
+        "rarity": "Very Rare"
+    },
+    "Wand of the War Mage, +2": {
+        "type": "Wand",
+        "page": "dmg 212",
+        "attunement": "yes",
+        "rarity": "Rare",
+        "name": "Wand of the War Mage, +2",
+        "limits": "spellcaster"
+    },
+    "Spell Scroll, 8th Level": {
+        "attunement": "no",
+        "type": "Scroll",
+        "page": "dmg 200",
+        "rarity": "Very Rare",
+        "name": "Spell Scroll, 8th Level"
+    },
+    "Ring of Jumping": {
+        "rarity": "Uncommon",
+        "name": "Ring of Jumping",
+        "attunement": "yes",
+        "page": "dmg 191",
+        "type": "Ring"
+    },
+    "Horn of Blasting": {
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 174",
+        "name": "Horn of Blasting",
+        "rarity": "Rare"
+    },
+    "Ammunition, +3": {
+        "limits": "any ammunition",
+        "name": "Ammunition, +3",
+        "rarity": "Very Rare",
+        "attunement": "no",
+        "type": "Weapon",
+        "page": "dmg 150"
+    },
+    "Rod of the Pact Keeper, +3": {
+        "page": "dmg 197",
+        "type": "Rod",
+        "attunement": "yes",
+        "name": "Rod of the Pact Keeper, +3",
+        "rarity": "Very Rare",
+        "limits": "warlock"
+    },
+    "Rope of Mending": {
+        "page": "xge 138",
+        "type": "Wondrous Item",
+        "attunement": "no",
+        "name": "Rope of Mending",
+        "rarity": "Common"
+    },
+    "Ioun Stone, Regeneration": {
+        "name": "Ioun Stone, Regeneration",
+        "rarity": "Legendary",
+        "attunement": "yes",
+        "page": "dmg 176",
+        "type": "Wondrous Item"
+    },
+    "Figurine of Wondrous Power, Marble Elephant": {
+        "rarity": "Rare",
+        "name": "Figurine of Wondrous Power, Marble Elephant",
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 170"
+    },
+    "Armor, +1": {
+        "page": "dmg 152",
+        "type": "Armor",
+        "attunement": "no",
+        "rarity": "Rare",
+        "name": "Armor, +1"
+    },
+    "Staff of the Magi": {
+        "limits": "sorcerer, warlock, or wizard",
+        "rarity": "Legendary",
+        "name": "Staff of the Magi",
+        "attunement": "yes",
+        "page": "dmg 203",
+        "type": "Staff"
+    },
+    "Ioun Stone, Insight": {
+        "name": "Ioun Stone, Insight",
+        "rarity": "Very Rare",
+        "attunement": "yes",
+        "page": "dmg 176",
+        "type": "Wondrous Item"
+    },
+    "Daern's Instant Fortress": {
+        "type": "Wondrous Item",
+        "page": "dmg 160",
+        "attunement": "no",
+        "name": "Daern's Instant Fortress",
+        "srd_name": "Instant Fortress",
+        "rarity": "Rare"
+    },
+    "Potion of Storm Giant Strength": {
+        "name": "Potion of Storm Giant Strength",
+        "rarity": "Legendary",
+        "page": "dmg 187",
+        "type": "Potion",
+        "attunement": "no"
+    },
+    "Spell Scroll, 4th Level": {
+        "rarity": "Rare",
+        "name": "Spell Scroll, 4th Level",
+        "page": "dmg 200",
+        "type": "Scroll",
+        "attunement": "no"
+    },
+    "Ring of Telekinesis": {
+        "name": "Ring of Telekinesis",
+        "rarity": "Very Rare",
+        "attunement": "yes",
+        "type": "Ring",
+        "page": "dmg 193"
+    },
+    "Broom of Flying": {
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 156",
+        "rarity": "Uncommon",
+        "name": "Broom of Flying"
+    },
+    "Candle of Invocation": {
+        "type": "Wondrous Item",
+        "page": "dmg 157",
+        "attunement": "yes",
+        "rarity": "Very Rare",
+        "name": "Candle of Invocation"
+    },
+    "Armor, +3": {
+        "rarity": "Legendary",
+        "name": "Armor, +3",
+        "attunement": "no",
+        "page": "dmg 152",
+        "type": "Armor"
+    },
+    "Eversmoking Bottle": {
+        "page": "dmg 168",
+        "type": "Wondrous Item",
+        "attunement": "no",
+        "name": "Eversmoking Bottle",
+        "rarity": "Uncommon"
+    },
+    "Spell Scroll, 1st Level": {
+        "name": "Spell Scroll, 1st Level",
+        "rarity": "Common",
+        "attunement": "no",
+        "type": "Scroll",
+        "page": "dmg 200"
+    },
+    "Potion of Stone Giant Strength": {
+        "attunement": "no",
+        "page": "dmg 187",
+        "type": "Potion",
+        "name": "Potion of Stone Giant Strength",
+        "rarity": "Rare"
+    },
+    "Instrument of the Bards, Canaith Mandolin": {
+        "limits": "bard",
+        "rarity": "Rare",
+        "name": "Instrument of the Bards, Canaith Mandolin",
+        "attunement": "yes",
+        "page": "dmg 176",
+        "type": "Wondrous Item"
+    },
+    "Dragon Scale Mail": {
+        "attunement": "yes",
+        "page": "dmg 165",
+        "type": "Armor",
+        "limits": "scale mail",
+        "name": "Dragon Scale Mail",
+        "rarity": "Very Rare"
+    },
+    "Tome of the Stilled Tongue": {
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 208",
+        "limits": "wizard",
+        "name": "Tome of the Stilled Tongue",
+        "rarity": "Legendary"
+    },
+    "Potion of Fire Breath": {
+        "name": "Potion of Fire Breath",
+        "rarity": "Uncommon",
+        "page": "dmg 187",
+        "type": "Potion",
+        "attunement": "no"
+    },
+    "Ammunition, +1": {
+        "attunement": "no",
+        "type": "Weapon",
+        "page": "dmg 150",
+        "limits": "any ammunition",
+        "name": "Ammunition, +1",
+        "rarity": "Uncommon"
+    },
+    "Talking Doll": {
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "xge 139",
+        "name": "Talking Doll",
+        "rarity": "Common"
+    },
+    "Potion of Cloud Giant Strength": {
+        "name": "Potion of Cloud Giant Strength",
+        "rarity": "Very Rare",
+        "attunement": "no",
+        "type": "Potion",
+        "page": "dmg 187"
+    },
+    "Holy Avenger": {
+        "limits": "any sword, paladin",
+        "name": "Holy Avenger",
+        "rarity": "Legendary",
+        "page": "dmg 174",
+        "type": "Weapon",
+        "attunement": "yes"
+    },
+    "Oil of Sharpness": {
+        "rarity": "Very Rare",
+        "name": "Oil of Sharpness",
+        "attunement": "no",
+        "page": "dmg 184",
+        "type": "Potion"
+    },
+    "Ring of the Ram": {
+        "attunement": "yes",
+        "page": "dmg 193",
+        "type": "Ring",
+        "name": "Ring of the Ram",
+        "rarity": "Rare"
+    },
+    "Dwarven Thrower": {
+        "limits": "warhammer, dwarf",
+        "rarity": "Very Rare",
+        "name": "Dwarven Thrower",
+        "type": "Weapon",
+        "page": "dmg 167",
+        "attunement": "yes"
+    },
+    "Keoghtom's Ointment": {
+        "srd_name": "Restorative Ointment",
+        "rarity": "Uncommon",
+        "name": "Keoghtom's Ointment",
+        "type": "Wondrous Item",
+        "page": "dmg 179",
+        "attunement": "no"
+    },
+    "Mantle of Spell Resistance": {
+        "rarity": "Rare",
+        "name": "Mantle of Spell Resistance",
+        "attunement": "yes",
+        "page": "dmg 180",
+        "type": "Wondrous Item"
+    },
+    "Stone of Controlling Earth Elementals": {
+        "rarity": "Rare",
+        "name": "Stone of Controlling Earth Elementals",
+        "attunement": "no",
+        "page": "dmg 205",
+        "type": "Wondrous Item"
+    },
+    "Necklace of Fireballs": {
+        "attunement": "no",
+        "page": "dmg 182",
+        "type": "Wondrous Item",
+        "name": "Necklace of Fireballs",
+        "rarity": "Rare"
+    },
+    "Weapon of Warning": {
+        "name": "Weapon of Warning",
+        "rarity": "Uncommon",
+        "page": "dmg 213",
+        "type": "Weapon",
+        "attunement": "yes"
+    },
+    "Horseshoes of a Zephyr": {
+        "rarity": "Very Rare",
+        "name": "Horseshoes of a Zephyr",
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 175"
+    },
+    "Wings of Flying": {
+        "type": "Wondrous Item",
+        "page": "dmg 214",
+        "attunement": "yes",
+        "rarity": "Rare",
+        "name": "Wings of Flying"
+    },
+    "Instrument of the Bards, Fochlucan Bandore": {
+        "name": "Instrument of the Bards, Fochlucan Bandore",
+        "rarity": "Uncommon",
+        "limits": "bard",
+        "page": "dmg 176",
+        "type": "Wondrous Item",
+        "attunement": "yes"
+    },
+    "Sword of Life Stealing": {
+        "limits": "any sword",
+        "name": "Sword of Life Stealing",
+        "rarity": "Rare",
+        "type": "Weapon",
+        "page": "dmg 206",
+        "attunement": "yes"
+    },
+    "Brazier of Commanding Fire Elementals": {
+        "type": "Wondrous Item",
+        "page": "dmg 156",
+        "attunement": "no",
+        "name": "Brazier of Commanding Fire Elementals",
+        "rarity": "Rare"
+    },
+    "Rod of Lordly Might": {
+        "name": "Rod of Lordly Might",
+        "rarity": "Legendary",
+        "page": "dmg 196",
+        "type": "Rod",
+        "attunement": "yes"
+    },
+    "Medallion of Thoughts": {
+        "type": "Wondrous Item",
+        "page": "dmg 181",
+        "attunement": "yes",
+        "name": "Medallion of Thoughts",
+        "rarity": "Uncommon"
+    },
+    "Robe of the Archmagi": {
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 194",
+        "limits": "sorcerer, warlock, or wizard",
+        "rarity": "Legendary",
+        "name": "Robe of the Archmagi"
+    },
+    "Perfume of Bewitching": {
+        "type": "Wondrous Item",
+        "page": "xge 138",
+        "attunement": "no",
+        "name": "Perfume of Bewitching",
+        "rarity": "Common"
+    },
+    "Potion of Longevity": {
+        "name": "Potion of Longevity",
+        "rarity": "Very Rare",
+        "page": "dmg 188",
+        "type": "Potion",
+        "attunement": "no"
+    },
+    "Spell Scroll, 6th Level": {
+        "name": "Spell Scroll, 6th Level",
+        "rarity": "Very Rare",
+        "attunement": "no",
+        "page": "dmg 200",
+        "type": "Scroll"
+    },
+    "Dimensional Shackles": {
+        "name": "Dimensional Shackles",
+        "rarity": "Rare",
+        "page": "dmg 165",
+        "type": "Wondrous Item",
+        "attunement": "no"
+    },
+    "Animated Shield": {
+        "limits": "shield",
+        "rarity": "Very Rare",
+        "name": "Animated Shield",
+        "type": "Armor",
+        "page": "dmg 151",
+        "attunement": "yes"
+    },
+    "Enduring Spellbook": {
+        "type": "Wondrous Item",
+        "page": "xge 137",
+        "attunement": "no",
+        "rarity": "Common",
+        "name": "Enduring Spellbook"
+    },
+    "Gem of Seeing": {
+        "rarity": "Rare",
+        "name": "Gem of Seeing",
+        "type": "Wondrous Item",
+        "page": "dmg 172",
+        "attunement": "yes"
+    },
+    "Moon-Touched Sword": {
+        "limits": "any sword",
+        "name": "Moon-Touched Sword",
+        "rarity": "Common",
+        "attunement": "no",
+        "type": "Weapon",
+        "page": "xge 138"
+    },
+    "Bracers of Archery": {
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 156",
+        "name": "Bracers of Archery",
+        "rarity": "Uncommon"
+    },
+    "Pot of Awakening": {
+        "name": "Pot of Awakening",
+        "rarity": "Common",
+        "attunement": "no",
+        "page": "xge 138",
+        "type": "Wondrous Item"
+    },
+    "Defender": {
+        "type": "Weapon",
+        "page": "dmg 164",
+        "attunement": "yes",
+        "rarity": "Legendary",
+        "name": "Defender",
+        "limits": "any sword"
+    },
+    "Sword of Wounding": {
+        "name": "Sword of Wounding",
+        "rarity": "Rare",
+        "limits": "any sword",
+        "attunement": "yes",
+        "type": "Weapon",
+        "page": "dmg 207"
+    },
+    "Crystal Ball": {
+        "type": "Wondrous Item",
+        "page": "dmg 159",
+        "attunement": "yes",
+        "rarity": "Very Rare",
+        "name": "Crystal Ball"
+    },
+    "Cast-Off Armor": {
+        "name": "Cast-Off Armor",
+        "rarity": "Common",
+        "limits": "light, medium, or heavy",
+        "attunement": "no",
+        "type": "Armor",
+        "page": "xge 136"
+    },
+    "Smoldering Armor": {
+        "name": "Smoldering Armor",
+        "rarity": "Common",
+        "page": "xge 139",
+        "type": "Armor",
+        "attunement": "no"
+    },
+    "Nolzur's Marvelous Pigments": {
+        "name": "Nolzur's Marvelous Pigments",
+        "srd_name": "Marvelous Pigments",
+        "rarity": "Very Rare",
+        "page": "dmg 183",
+        "type": "Wondrous Item",
+        "attunement": "no"
+    },
+    "Dragon Slayer": {
+        "attunement": "no",
+        "page": "dmg 166",
+        "type": "Weapon",
+        "limits": "any sword",
+        "rarity": "Rare",
+        "name": "Dragon Slayer"
+    },
+    "Ioun Stone, Greater Absorption": {
+        "rarity": "Legendary",
+        "name": "Ioun Stone, Greater Absorption",
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 176"
+    },
+    "Bead of Force": {
+        "type": "Wondrous Item",
+        "page": "dmg 154",
+        "attunement": "no",
+        "rarity": "Rare",
+        "name": "Bead of Force"
+    },
+    "Lantern of Revealing": {
+        "page": "dmg 179",
+        "type": "Wondrous Item",
+        "attunement": "no",
+        "rarity": "Uncommon",
+        "name": "Lantern of Revealing"
+    },
+    "Sword of Answering": {
+        "name": "Sword of Answering",
+        "rarity": "Legendary",
+        "limits": "longsword, by alignment",
+        "attunement": "yes",
+        "type": "Weapon",
+        "page": "dmg 206"
+    },
+    "Boots of the Winterlands": {
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 156",
+        "rarity": "Uncommon",
+        "name": "Boots of the Winterlands"
+    },
+    "Potion of Invisibility": {
+        "attunement": "no",
+        "page": "dmg 188",
+        "type": "Potion",
+        "rarity": "Very Rare",
+        "name": "Potion of Invisibility"
+    },
+    "Helm of Comprehending Languages": {
+        "page": "dmg 173",
+        "type": "Wondrous Item",
+        "attunement": "no",
+        "name": "Helm of Comprehending Languages",
+        "rarity": "Uncommon"
+    },
+    "Instrument of the Bards, Cli Lyre": {
+        "name": "Instrument of the Bards, Cli Lyre",
+        "rarity": "Rare",
+        "limits": "bard",
+        "type": "Wondrous Item",
+        "page": "dmg 176",
+        "attunement": "yes"
+    },
+    "Ring of Djinni Summoning": {
+        "rarity": "Legendary",
+        "name": "Ring of Djinni Summoning",
+        "attunement": "yes",
+        "type": "Ring",
+        "page": "dmg 190"
+    },
+    "Sentinel Shield": {
+        "limits": "shield",
+        "name": "Sentinel Shield",
+        "rarity": "Uncommon",
+        "type": "Armor",
+        "page": "dmg 199",
+        "attunement": "no"
+    },
+    "Veteran's Cane": {
+        "rarity": "Common",
+        "name": "Veteran's Cane",
+        "type": "Wondrous Item",
+        "page": "xge 139",
+        "attunement": "no"
+    },
+    "Rod of Absorption": {
+        "rarity": "Very Rare",
+        "name": "Rod of Absorption",
+        "attunement": "yes",
+        "page": "dmg 195",
+        "type": "Rod"
+    },
+    "Scarab of Protection": {
+        "name": "Scarab of Protection",
+        "rarity": "Legendary",
+        "attunement": "yes",
+        "page": "dmg 199",
+        "type": "Wondrous Item"
+    },
+    "Wand of Polymorph": {
+        "limits": "spellcaster",
+        "rarity": "Very Rare",
+        "name": "Wand of Polymorph",
+        "page": "dmg 211",
+        "type": "Wand",
+        "attunement": "yes"
+    },
+    "Potion of Resistance": {
+        "name": "Potion of Resistance",
+        "rarity": "Uncommon",
+        "attunement": "no",
+        "type": "Potion",
+        "page": "dmg 188"
+    },
+    "Rod of Resurrection": {
+        "attunement": "yes",
+        "page": "dmg 197",
+        "type": "Rod",
+        "rarity": "Legendary",
+        "name": "Rod of Resurrection",
+        "limits": "cleric, druid, or paladin"
+    },
+    "Mace of Smiting": {
+        "name": "Mace of Smiting",
+        "rarity": "Rare",
+        "limits": "mace",
+        "attunement": "no",
+        "type": "Weapon",
+        "page": "dmg 179"
+    },
+    "Ring of Invisibility": {
+        "attunement": "yes",
+        "page": "dmg 191",
+        "type": "Ring",
+        "rarity": "Legendary",
+        "name": "Ring of Invisibility"
+    },
+    "Dark Shard Amulet": {
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "xge 137",
+        "rarity": "Common",
+        "name": "Dark Shard Amulet",
+        "limits": "warlock"
+    },
+    "Walloping Ammunition": {
+        "name": "Walloping Ammunition",
+        "rarity": "Common",
+        "limits": "any ammunition",
+        "type": "Weapon",
+        "page": "xge 139",
+        "attunement": "no"
+    },
+    "Nine Lives Stealer": {
+        "attunement": "yes",
+        "type": "Weapon",
+        "page": "dmg 183",
+        "limits": "any sword",
+        "rarity": "Very Rare",
+        "name": "Nine Lives Stealer"
+    },
+    "Ioun Stone, Agility": {
+        "rarity": "Very Rare",
+        "name": "Ioun Stone, Agility",
+        "page": "dmg 176",
+        "type": "Wondrous Item",
+        "attunement": "yes"
+    },
+    "Vicious Weapon": {
+        "name": "Vicious Weapon",
+        "rarity": "Rare",
+        "page": "dmg 209",
+        "type": "Weapon",
+        "attunement": "no"
+    },
+    "Horn of Valhalla, Brass": {
+        "page": "dmg 175",
+        "type": "Wondrous Item",
+        "attunement": "no",
+        "name": "Horn of Valhalla, Brass",
+        "rarity": "Rare"
+    },
+    "Pole of Collapsing": {
+        "page": "xge 138",
+        "type": "Wondrous Item",
+        "attunement": "no",
+        "name": "Pole of Collapsing",
+        "rarity": "Common"
+    },
+    "Bead of Nourishment": {
+        "name": "Bead of Nourishment",
+        "rarity": "Common",
+        "attunement": "no",
+        "page": "xge 136",
+        "type": "Wondrous Item"
+    },
+    "Potion of Flying": {
+        "rarity": "Very Rare",
+        "name": "Potion of Flying",
+        "type": "Potion",
+        "page": "dmg 187",
+        "attunement": "no"
+    },
+    "Pipes of the Sewers": {
+        "name": "Pipes of the Sewers",
+        "rarity": "Uncommon",
+        "page": "dmg 185",
+        "type": "Wondrous Item",
+        "attunement": "yes"
+    },
+    "Potion of Frost Giant Strength": {
+        "name": "Potion of Frost Giant Strength",
+        "rarity": "Rare",
+        "attunement": "no",
+        "page": "dmg 187",
+        "type": "Potion"
+    },
+    "Cloak of Billowing": {
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "xge 136",
+        "name": "Cloak of Billowing",
+        "rarity": "Common"
+    },
+    "Ring of Air Elemental Command": {
+        "page": "dmg 190",
+        "type": "Ring",
+        "attunement": "yes",
+        "name": "Ring of Air Elemental Command",
+        "rarity": "Legendary"
+    },
+    "Sphere of Annihilation": {
+        "name": "Sphere of Annihilation",
+        "rarity": "Legendary",
+        "attunement": "no",
+        "page": "dmg 201",
+        "type": "Wondrous Item"
+    },
+    "Potion of Vitality": {
+        "name": "Potion of Vitality",
+        "rarity": "Very Rare",
+        "page": "dmg 188",
+        "type": "Potion",
+        "attunement": "no"
+    },
+    "Manual of Golems": {
+        "page": "dmg 180",
+        "type": "Wondrous Item",
+        "attunement": "no",
+        "name": "Manual of Golems",
+        "rarity": "Very Rare"
+    },
+    "Apparatus of Kwalish": {
+        "type": "Wondrous Item",
+        "page": "dmg 151",
+        "attunement": "no",
+        "rarity": "Legendary",
+        "srd_name": "Apparatus of the Crab",
+        "name": "Apparatus of Kwalish"
+    },
+    "Staff of Charming": {
+        "limits": "bard, cleric, druid, sorcerer, warlock, or wizard",
+        "rarity": "Rare",
+        "name": "Staff of Charming",
+        "attunement": "yes",
+        "page": "dmg 201",
+        "type": "Staff"
+    },
+    "Potion of Heroism": {
+        "name": "Potion of Heroism",
+        "rarity": "Rare",
+        "type": "Potion",
+        "page": "dmg 188",
+        "attunement": "no"
+    },
+    "Potion of Hill Giant Strength": {
+        "name": "Potion of Hill Giant Strength",
+        "rarity": "Uncommon",
+        "type": "Potion",
+        "page": "dmg 187",
+        "attunement": "no"
+    },
+    "Cubic Gate": {
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 160",
+        "name": "Cubic Gate",
+        "rarity": "Legendary"
+    },
+    "Spell Scroll, Cantrip": {
+        "rarity": "Common",
+        "name": "Spell Scroll, Cantrip",
+        "page": "dmg 200",
+        "type": "Scroll",
+        "attunement": "no"
+    },
+    "Boots of Striding and Springing": {
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 156",
+        "name": "Boots of Striding and Springing",
+        "rarity": "Uncommon"
+    },
+    "Staff of Power": {
+        "attunement": "yes",
+        "type": "Staff",
+        "page": "dmg 202",
+        "rarity": "Very Rare",
+        "name": "Staff of Power",
+        "limits": "sorcerer, warlock, or wizard"
+    },
+    "Periapt of Proof Against Poison": {
+        "type": "Wondrous Item",
+        "page": "dmg 184",
+        "attunement": "no",
+        "name": "Periapt of Proof Against Poison",
+        "rarity": "Rare"
+    },
+    "Ring of Swimming": {
+        "attunement": "no",
+        "page": "dmg 193",
+        "type": "Ring",
+        "name": "Ring of Swimming",
+        "rarity": "Uncommon"
+    },
+    "Weapon, +2": {
+        "rarity": "Rare",
+        "name": "Weapon, +2",
+        "attunement": "no",
+        "page": "dmg 213",
+        "type": "Weapon"
+    },
+    "Instrument of the Bards, Ollamh Harp": {
+        "rarity": "Legendary",
+        "name": "Instrument of the Bards, Ollamh Harp",
+        "limits": "bard",
+        "attunement": "yes",
+        "page": "dmg 176",
+        "type": "Wondrous Item"
+    },
+    "Rod of Security": {
+        "name": "Rod of Security",
+        "rarity": "Very Rare",
+        "page": "dmg 197",
+        "type": "Rod",
+        "attunement": "no"
+    },
+    "Philter of Love": {
+        "rarity": "Uncommon",
+        "name": "Philter of Love",
+        "attunement": "no",
+        "page": "dmg 184",
+        "type": "Potion"
+    },
+    "Elemental Gem": {
+        "rarity": "Uncommon",
+        "name": "Elemental Gem",
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 167"
+    },
+    "Dagger of Venom": {
+        "page": "dmg 161",
+        "type": "Weapon",
+        "attunement": "no",
+        "limits": "dagger",
+        "rarity": "Rare",
+        "name": "Dagger of Venom"
+    },
+    "Wand of Fireballs": {
+        "type": "Wand",
+        "page": "dmg 210",
+        "attunement": "yes",
+        "name": "Wand of Fireballs",
+        "rarity": "Rare",
+        "limits": "spellcaster"
+    },
+    "Shield, +1": {
+        "attunement": "no",
+        "page": "dmg 200",
+        "type": "Armor",
+        "limits": "shield",
+        "name": "Shield, +1",
+        "rarity": "Uncommon"
+    },
+    "Quiver of Ehlonna": {
+        "page": "dmg 189",
+        "type": "Wondrous Item",
+        "attunement": "no",
+        "rarity": "Uncommon",
+        "srd_name": "Efficient Quiver",
+        "name": "Quiver of Ehlonna"
+    },
+    "Folding Boat": {
+        "rarity": "Rare",
+        "name": "Folding Boat",
+        "attunement": "no",
+        "page": "dmg 170",
+        "type": "Wondrous Item"
+    },
+    "Potion of Greater Healing": {
+        "name": "Potion of Greater Healing",
+        "rarity": "Uncommon",
+        "attunement": "no",
+        "page": "dmg 187",
+        "type": "Potion"
+    },
+    "Ioun Stone, Intellect": {
+        "rarity": "Very Rare",
+        "name": "Ioun Stone, Intellect",
+        "type": "Wondrous Item",
+        "page": "dmg 176",
+        "attunement": "yes"
+    },
+    "Cloak of Protection": {
+        "name": "Cloak of Protection",
+        "rarity": "Uncommon",
+        "page": "dmg 159",
+        "type": "Wondrous Item",
+        "attunement": "yes"
+    },
+    "Scroll of Protection": {
+        "rarity": "Rare",
+        "name": "Scroll of Protection",
+        "attunement": "no",
+        "page": "dmg 199",
+        "type": "Scroll"
+    },
+    "Potion of Gaseous Form": {
+        "name": "Potion of Gaseous Form",
+        "rarity": "Rare",
+        "attunement": "no",
+        "page": "dmg 187",
+        "type": "Potion"
+    },
+    "Ring of Spell Turning": {
+        "name": "Ring of Spell Turning",
+        "rarity": "Legendary",
+        "page": "dmg 193",
+        "type": "Ring",
+        "attunement": "yes"
+    },
+    "Universal Solvent": {
+        "name": "Universal Solvent",
+        "rarity": "Legendary",
+        "type": "Wondrous Item",
+        "page": "dmg 209",
+        "attunement": "no"
+    },
+    "Spellguard Shield": {
+        "rarity": "Very Rare",
+        "name": "Spellguard Shield",
+        "limits": "shield",
+        "page": "dmg 201",
+        "type": "Armor",
+        "attunement": "yes"
+    },
+    "Ioun Stone, Absorption": {
+        "attunement": "yes",
+        "page": "dmg 176",
+        "type": "Wondrous Item",
+        "rarity": "Very Rare",
+        "name": "Ioun Stone, Absorption"
+    },
+    "Armor of Invulnerability": {
+        "name": "Armor of Invulnerability",
+        "rarity": "Legendary",
+        "limits": "plate",
+        "type": "Armor",
+        "page": "dmg 152",
+        "attunement": "yes"
+    },
+    "Oil of Etherealness": {
+        "type": "Potion",
+        "page": "dmg 183",
+        "attunement": "no",
+        "rarity": "Rare",
+        "name": "Oil of Etherealness"
+    },
+    "Ioun Stone, Reserve": {
+        "page": "dmg 176",
+        "type": "Wondrous Item",
+        "attunement": "yes",
+        "rarity": "Rare",
+        "name": "Ioun Stone, Reserve"
+    },
+    "Staff of Flowers": {
+        "attunement": "no",
+        "page": "xge 139",
+        "type": "Staff",
+        "rarity": "Common",
+        "name": "Staff of Flowers"
+    },
+    "Mace of Disruption": {
+        "attunement": "yes",
+        "page": "dmg 179",
+        "type": "Weapon",
+        "limits": "mace",
+        "name": "Mace of Disruption",
+        "rarity": "Rare"
+    },
+    "Dust of Disappearance": {
+        "rarity": "Uncommon",
+        "name": "Dust of Disappearance",
+        "page": "dmg 166",
+        "type": "Wondrous Item",
+        "attunement": "no"
+    },
+    "Ring of Earth Elemental Command": {
+        "rarity": "Legendary",
+        "name": "Ring of Earth Elemental Command",
+        "page": "dmg 190",
+        "type": "Ring",
+        "attunement": "yes"
+    },
+    "Mithral Armor": {
+        "limits": "medium or heavy, but not hide",
+        "name": "Mithral Armor",
+        "rarity": "Uncommon",
+        "attunement": "no",
+        "page": "dmg 182",
+        "type": "Armor"
+    },
+    "Sun Blade": {
+        "name": "Sun Blade",
+        "rarity": "Rare",
+        "limits": "longsword",
+        "page": "dmg 205",
+        "type": "Weapon",
+        "attunement": "yes"
+    },
+    "Wand of the War Mage, +1": {
+        "page": "dmg 212",
+        "type": "Wand",
+        "attunement": "yes",
+        "name": "Wand of the War Mage, +1",
+        "rarity": "Uncommon",
+        "limits": "spellcaster"
+    },
+    "Brooch of Shielding": {
+        "type": "Wondrous Item",
+        "page": "dmg 156",
+        "attunement": "yes",
+        "name": "Brooch of Shielding",
+        "rarity": "Uncommon"
+    },
+    "Instrument of Illusions": {
+        "rarity": "Common",
+        "name": "Instrument of Illusions",
+        "type": "Wondrous Item",
+        "page": "xge 137",
+        "attunement": "yes"
+    },
+    "Ammunition, +2": {
+        "attunement": "no",
+        "page": "dmg 150",
+        "type": "Weapon",
+        "rarity": "Rare",
+        "name": "Ammunition, +2",
+        "limits": "any ammunition"
+    },
+    "Armor of Vulnerability": {
+        "attunement": "yes",
+        "type": "Armor",
+        "page": "dmg 152",
+        "limits": "plate",
+        "rarity": "Rare",
+        "name": "Armor of Vulnerability"
+    },
+    "Ring of Resistance": {
+        "attunement": "yes",
+        "page": "dmg 192",
+        "type": "Ring",
+        "name": "Ring of Resistance",
+        "rarity": "Rare"
+    },
+    "Clockwork Amulet": {
+        "page": "xge 137",
+        "type": "Wondrous Item",
+        "attunement": "no",
+        "name": "Clockwork Amulet",
+        "rarity": "Common"
+    },
+    "Bag of Holding": {
+        "page": "dmg 153",
+        "type": "Wondrous Item",
+        "attunement": "no",
+        "rarity": "Uncommon",
+        "name": "Bag of Holding"
+    },
+    "Ring of Mind Shielding": {
+        "rarity": "Uncommon",
+        "name": "Ring of Mind Shielding",
+        "attunement": "yes",
+        "page": "dmg 191",
+        "type": "Ring"
+    },
+    "Iron Flask": {
+        "rarity": "Legendary",
+        "name": "Iron Flask",
+        "page": "dmg 178",
+        "type": "Wondrous Item",
+        "attunement": "no"
+    },
+    "Staff of Swarming Insects": {
+        "limits": "bard, cleric, druid, sorcerer, warlock, or wizard",
+        "name": "Staff of Swarming Insects",
+        "rarity": "Rare",
+        "page": "dmg 203",
+        "type": "Staff",
+        "attunement": "yes"
+    },
+    "Hammer of Thunderbolts": {
+        "rarity": "Legendary",
+        "name": "Hammer of Thunderbolts",
+        "limits": "maul",
+        "page": "dmg 173",
+        "type": "Weapon",
+        "attunement": "no"
+    },
+    "Armor of Resistance": {
+        "attunement": "yes",
+        "page": "dmg 152",
+        "type": "Armor",
+        "rarity": "Rare",
+        "name": "Armor of Resistance"
+    },
+    "Shield of Missile Attraction": {
+        "page": "dmg 200",
+        "type": "Armor",
+        "attunement": "yes",
+        "name": "Shield of Missile Attraction",
+        "rarity": "Rare",
+        "limits": "shield"
+    },
+    "Candle of the Deep": {
+        "page": "xge 136",
+        "type": "Wondrous Item",
+        "attunement": "no",
+        "rarity": "Common",
+        "name": "Candle of the Deep"
+    },
+    "Cape of the Mountebank": {
+        "attunement": "no",
+        "page": "dmg 157",
+        "type": "Wondrous Item",
+        "rarity": "Rare",
+        "name": "Cape of the Mountebank"
+    },
+    "Wand of Paralysis": {
+        "attunement": "yes",
+        "page": "dmg 211",
+        "type": "Wand",
+        "limits": "spellcaster",
+        "rarity": "Rare",
+        "name": "Wand of Paralysis"
+    },
+    "Ioun Stone, Protection": {
+        "name": "Ioun Stone, Protection",
+        "rarity": "Rare",
+        "type": "Wondrous Item",
+        "page": "dmg 176",
+        "attunement": "yes"
+    },
+    "Manual of Bodily Health": {
+        "page": "dmg 180",
+        "type": "Wondrous Item",
+        "attunement": "no",
+        "rarity": "Very Rare",
+        "name": "Manual of Bodily Health"
+    },
+    "Efreeti Chain": {
+        "rarity": "Legendary",
+        "name": "Efreeti Chain",
+        "limits": "chain mail",
+        "type": "Armor",
+        "page": "dmg 167",
+        "attunement": "yes"
+    },
+    "Potion of Supreme Healing": {
+        "attunement": "no",
+        "type": "Potion",
+        "page": "dmg 187",
+        "name": "Potion of Supreme Healing",
+        "rarity": "Very Rare"
+    },
+    "Ioun Stone, Sustenance": {
+        "name": "Ioun Stone, Sustenance",
+        "rarity": "Rare",
+        "type": "Wondrous Item",
+        "page": "dmg 176",
+        "attunement": "yes"
+    },
+    "Dancing Sword": {
+        "attunement": "yes",
+        "page": "dmg 161",
+        "type": "Weapon",
+        "name": "Dancing Sword",
+        "rarity": "Very Rare",
+        "limits": "any sword"
+    },
+    "Talisman of the Sphere": {
+        "name": "Talisman of the Sphere",
+        "rarity": "Legendary",
+        "page": "dmg 207",
+        "type": "Wondrous Item",
+        "attunement": "yes"
+    },
+    "Wind Fan": {
+        "name": "Wind Fan",
+        "rarity": "Uncommon",
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 213"
+    },
+    "Gem of Brightness": {
+        "name": "Gem of Brightness",
+        "rarity": "Uncommon",
+        "page": "dmg 171",
+        "type": "Wondrous Item",
+        "attunement": "no"
+    },
+    "Potion of Fire Giant Strength": {
+        "type": "Potion",
+        "page": "dmg 187",
+        "attunement": "no",
+        "rarity": "Rare",
+        "name": "Potion of Fire Giant Strength"
+    },
+    "Cap of Water Breathing": {
+        "name": "Cap of Water Breathing",
+        "rarity": "Uncommon",
+        "page": "dmg 157",
+        "type": "Wondrous Item",
+        "attunement": "no"
+    },
+    "Ring of Three Wishes": {
+        "attunement": "no",
+        "type": "Ring",
+        "page": "dmg 193",
+        "rarity": "Legendary",
+        "name": "Ring of Three Wishes"
+    },
+    "Crystal Ball of True Seeing": {
+        "rarity": "Legendary",
+        "name": "Crystal Ball of True Seeing",
+        "type": "Wondrous Item",
+        "page": "dmg 159",
+        "attunement": "yes"
+    },
+    "Oathbow": {
+        "type": "Weapon",
+        "page": "dmg 183",
+        "attunement": "yes",
+        "rarity": "Very Rare",
+        "name": "Oathbow",
+        "limits": "longbow"
+    },
+    "Boots of Speed": {
+        "rarity": "Rare",
+        "name": "Boots of Speed",
+        "page": "dmg 155",
+        "type": "Wondrous Item",
+        "attunement": "yes"
+    },
+    "Mirror of Life Trapping": {
+        "rarity": "Very Rare",
+        "name": "Mirror of Life Trapping",
+        "type": "Wondrous Item",
+        "page": "dmg 181",
+        "attunement": "no"
+    },
+    "Amulet of Health": {
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 150",
+        "name": "Amulet of Health",
+        "rarity": "Rare"
+    },
+    "Wand of Wonder": {
+        "rarity": "Rare",
+        "name": "Wand of Wonder",
+        "limits": "spellcaster",
+        "attunement": "yes",
+        "type": "Wand",
+        "page": "dmg 212"
+    },
+    "Sword of Sharpness": {
+        "name": "Sword of Sharpness",
+        "rarity": "Very Rare",
+        "limits": "any sword that deals slashing damage",
+        "attunement": "yes",
+        "type": "Weapon",
+        "page": "dmg 206"
+    },
+    "Gloves of Missile Snaring": {
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 172",
+        "rarity": "Uncommon",
+        "name": "Gloves of Missile Snaring"
+    },
+    "Gauntlets of Ogre Power": {
+        "rarity": "Uncommon",
+        "name": "Gauntlets of Ogre Power",
+        "attunement": "yes",
+        "page": "dmg 171",
+        "type": "Wondrous Item"
+    },
+    "Staff of the Python": {
+        "limits": "cleric, druid, or warlock",
+        "rarity": "Uncommon",
+        "name": "Staff of the Python",
+        "attunement": "yes",
+        "type": "Staff",
+        "page": "dmg 204"
+    },
+    "Hat of Wizardry": {
+        "type": "Wondrous Item",
+        "page": "xge 137",
+        "attunement": "yes",
+        "limits": "wizard",
+        "rarity": "Common",
+        "name": "Hat of Wizardry"
+    },
+    "Ring of Evasion": {
+        "rarity": "Rare",
+        "name": "Ring of Evasion",
+        "attunement": "yes",
+        "page": "dmg 191",
+        "type": "Ring"
+    },
+    "Shield, +2": {
+        "page": "dmg 200",
+        "type": "Armor",
+        "attunement": "no",
+        "rarity": "Rare",
+        "name": "Shield, +2",
+        "limits": "shield"
+    },
+    "Driftglobe": {
+        "name": "Driftglobe",
+        "rarity": "Uncommon",
+        "page": "dmg 166",
+        "type": "Wondrous Item",
+        "attunement": "no"
+    },
+    "Pearl of Power": {
+        "page": "dmg 184",
+        "type": "Wondrous Item",
+        "attunement": "yes",
+        "name": "Pearl of Power",
+        "rarity": "Uncommon",
+        "limits": "spellcaster"
+    },
+    "Robe of Eyes": {
+        "attunement": "yes",
+        "page": "dmg 193",
+        "type": "Wondrous Item",
+        "name": "Robe of Eyes",
+        "rarity": "Rare"
+    },
+    "Belt of Frost Giant Strength": {
+        "rarity": "Very Rare",
+        "name": "Belt of Frost Giant Strength",
+        "type": "Wondrous Item",
+        "page": "dmg 155",
+        "attunement": "yes"
+    },
+    "Arrow-catching Shield": {
+        "name": "Arrow-catching Shield",
+        "rarity": "Rare",
+        "limits": "shield",
+        "attunement": "yes",
+        "type": "Armor",
+        "page": "dmg 152"
+    },
+    "Cloak of Invisibility": {
+        "page": "dmg 158",
+        "type": "Wondrous Item",
+        "attunement": "yes",
+        "name": "Cloak of Invisibility",
+        "rarity": "Legendary"
+    },
+    "Cloak of Many Fashions": {
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "xge 136",
+        "name": "Cloak of Many Fashions",
+        "rarity": "Common"
+    },
+    "Eyes of Charming": {
+        "attunement": "yes",
+        "page": "dmg 168",
+        "type": "Wondrous Item",
+        "rarity": "Uncommon",
+        "name": "Eyes of Charming"
+    },
+    "Figurine of Wondrous Power, Bronze Griffon": {
+        "type": "Wondrous Item",
+        "page": "dmg 169",
+        "attunement": "no",
+        "rarity": "Rare",
+        "name": "Figurine of Wondrous Power, Bronze Griffon"
+    },
+    "Javelin of Lightning": {
+        "name": "Javelin of Lightning",
+        "rarity": "Uncommon",
+        "limits": "javelin",
+        "page": "dmg 178",
+        "type": "Weapon",
+        "attunement": "no"
+    },
+    "Instrument of Scribing": {
+        "rarity": "Common",
+        "name": "Instrument of Scribing",
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "xge 138"
+    },
+    "Wand of Scowls": {
+        "name": "Wand of Scowls",
+        "rarity": "Common",
+        "page": "xge 140",
+        "type": "Wand",
+        "attunement": "no"
+    },
+    "Winged Boots": {
+        "rarity": "Uncommon",
+        "name": "Winged Boots",
+        "page": "dmg 214",
+        "type": "Wondrous Item",
+        "attunement": "yes"
+    },
+    "Ring of Regeneration": {
+        "type": "Ring",
+        "page": "dmg 191",
+        "attunement": "yes",
+        "rarity": "Very Rare",
+        "name": "Ring of Regeneration"
+    },
+    "Pipes of Haunting": {
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 185",
+        "rarity": "Uncommon",
+        "name": "Pipes of Haunting"
+    },
+    "Potion of Clairvoyance": {
+        "attunement": "no",
+        "page": "dmg 187",
+        "type": "Potion",
+        "name": "Potion of Clairvoyance",
+        "rarity": "Rare"
+    },
+    "Necklace of Prayer Beads": {
+        "rarity": "Rare",
+        "name": "Necklace of Prayer Beads",
+        "limits": "cleric, druid, or paladin",
+        "type": "Wondrous Item",
+        "page": "dmg 182",
+        "attunement": "yes"
+    },
+    "Deck of Many Things": {
+        "name": "Deck of Many Things",
+        "rarity": "Legendary",
+        "page": "dmg 162",
+        "type": "Wondrous Item",
+        "attunement": "no"
+    },
+    "Potion of Healing": {
+        "rarity": "Common",
+        "name": "Potion of Healing",
+        "attunement": "no",
+        "type": "Potion",
+        "page": "dmg 187"
+    },
+    "Potion of Superior Healing": {
+        "rarity": "Rare",
+        "name": "Potion of Superior Healing",
+        "attunement": "no",
+        "page": "dmg 187",
+        "type": "Potion"
+    },
+    "Glamoured Studded Leather": {
+        "name": "Glamoured Studded Leather",
+        "rarity": "Rare",
+        "limits": "studded leather",
+        "type": "Armor",
+        "page": "dmg 172",
+        "attunement": "no"
+    },
+    "Instrument of the Bards, Mac-Fuirmidh Cittern": {
+        "name": "Instrument of the Bards, Mac-Fuirmidh Cittern",
+        "rarity": "Uncommon",
+        "limits": "bard",
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 176"
+    },
+    "Ring of Warmth": {
+        "attunement": "yes",
+        "type": "Ring",
+        "page": "dmg 193",
+        "rarity": "Uncommon",
+        "name": "Ring of Warmth"
+    },
+    "Wand of Conducting": {
+        "name": "Wand of Conducting",
+        "rarity": "Common",
+        "attunement": "no",
+        "type": "Wand",
+        "page": "xge 140"
+    },
+    "Staff of Thunder and Lightning": {
+        "attunement": "yes",
+        "type": "Staff",
+        "page": "dmg 204",
+        "name": "Staff of Thunder and Lightning",
+        "rarity": "Very Rare"
+    },
+    "Figurine of Wondrous Power, Obsidian Steed": {
+        "name": "Figurine of Wondrous Power, Obsidian Steed",
+        "rarity": "Very Rare",
+        "attunement": "no",
+        "page": "dmg 170",
+        "type": "Wondrous Item"
+    },
+    "Staff of Frost": {
+        "type": "Staff",
+        "page": "dmg 202",
+        "attunement": "yes",
+        "rarity": "Very Rare",
+        "name": "Staff of Frost",
+        "limits": "druid, sorcerer, warlock, or wizard"
+    },
+    "Cloak of the Manta Ray": {
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 159",
+        "rarity": "Uncommon",
+        "name": "Cloak of the Manta Ray"
+    },
+    "Potion of Diminution": {
+        "attunement": "no",
+        "page": "dmg 187",
+        "type": "Potion",
+        "rarity": "Rare",
+        "name": "Potion of Diminution"
+    },
+    "Pipe of Smoke Monsters": {
+        "page": "xge 138",
+        "type": "Wondrous Item",
+        "attunement": "no",
+        "name": "Pipe of Smoke Monsters",
+        "rarity": "Common"
+    },
+    "Adamantine Armor": {
+        "limits": "medium or heavy, but not hide",
+        "rarity": "Uncommon",
+        "name": "Adamantine Armor",
+        "attunement": "no",
+        "page": "dmg 150",
+        "type": "Armor"
+    },
+    "Instrument of the Bards, Anstruth Harp": {
+        "page": "dmg 176",
+        "type": "Wondrous Item",
+        "attunement": "yes",
+        "rarity": "Very Rare",
+        "name": "Instrument of the Bards, Anstruth Harp",
+        "limits": "bard"
+    },
+    "Eyes of Minute Seeing": {
+        "name": "Eyes of Minute Seeing",
+        "rarity": "Uncommon",
+        "attunement": "no",
+        "page": "dmg 168",
+        "type": "Wondrous Item"
+    },
+    "Efreeti Bottle": {
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 167",
+        "name": "Efreeti Bottle",
+        "rarity": "Very Rare"
+    },
+    "Chime of Opening": {
+        "rarity": "Rare",
+        "name": "Chime of Opening",
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 158"
+    },
+    "Robe of Useful Items": {
+        "name": "Robe of Useful Items",
+        "rarity": "Uncommon",
+        "type": "Wondrous Item",
+        "page": "dmg 195",
+        "attunement": "no"
+    },
+    "Slippers of Spider Climbing": {
+        "rarity": "Uncommon",
+        "name": "Slippers of Spider Climbing",
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 200"
+    },
+    "Shield, +3": {
+        "limits": "shield",
+        "name": "Shield, +3",
+        "rarity": "Very Rare",
+        "attunement": "no",
+        "type": "Armor",
+        "page": "dmg 200"
+    },
+    "Crystal Ball of Telepathy": {
+        "rarity": "Legendary",
+        "name": "Crystal Ball of Telepathy",
+        "page": "dmg 159",
+        "type": "Wondrous Item",
+        "attunement": "yes"
+    },
+    "Ring of Water Elemental Command": {
+        "page": "dmg 190",
+        "type": "Ring",
+        "attunement": "yes",
+        "rarity": "Legendary",
+        "name": "Ring of Water Elemental Command"
+    },
+    "Pole of Angling": {
+        "rarity": "Common",
+        "name": "Pole of Angling",
+        "attunement": "no",
+        "page": "xge 138",
+        "type": "Wondrous Item"
+    },
+    "Ring of Shooting Stars": {
+        "attunement": "yes",
+        "type": "Ring",
+        "page": "dmg 192",
+        "rarity": "Very Rare",
+        "name": "Ring of Shooting Stars"
+    },
+    "Belt of Stone Giant Strength": {
+        "page": "dmg 155",
+        "type": "Wondrous Item",
+        "attunement": "yes",
+        "rarity": "Very Rare",
+        "name": "Belt of Stone Giant Strength"
+    },
+    "Ring of Protection": {
+        "rarity": "Rare",
+        "name": "Ring of Protection",
+        "attunement": "yes",
+        "page": "dmg 191",
+        "type": "Ring"
+    },
+    "Periapt of Health": {
+        "attunement": "no",
+        "page": "dmg 184",
+        "type": "Wondrous Item",
+        "rarity": "Uncommon",
+        "name": "Periapt of Health"
+    },
+    "Hat of Disguise": {
+        "attunement": "yes",
+        "page": "dmg 173",
+        "type": "Wondrous Item",
+        "rarity": "Uncommon",
+        "name": "Hat of Disguise"
+    },
+    "Wand of Fear": {
+        "name": "Wand of Fear",
+        "rarity": "Rare",
+        "attunement": "yes",
+        "page": "dmg 210",
+        "type": "Wand"
+    },
+    "Vorpal Sword": {
+        "rarity": "Legendary",
+        "name": "Vorpal Sword",
+        "limits": "any sword that deals slashing damage",
+        "attunement": "yes",
+        "type": "Weapon",
+        "page": "dmg 209"
+    },
+    "Staff of Birdcalls": {
+        "page": "xge 139",
+        "type": "Staff",
+        "attunement": "no",
+        "name": "Staff of Birdcalls",
+        "rarity": "Common"
+    },
+    "Mace of Terror": {
+        "limits": "mace",
+        "rarity": "Rare",
+        "name": "Mace of Terror",
+        "type": "Weapon",
+        "page": "dmg 180",
+        "attunement": "yes"
+    },
+    "Figurine of Wondrous Power, Golden Lions": {
+        "rarity": "Rare",
+        "name": "Figurine of Wondrous Power, Golden Lions",
+        "type": "Wondrous Item",
+        "page": "dmg 169",
+        "attunement": "no"
+    },
+    "Wand of the War Mage, +3": {
+        "type": "Wand",
+        "page": "dmg 212",
+        "attunement": "yes",
+        "rarity": "Very Rare",
+        "name": "Wand of the War Mage, +3",
+        "limits": "spellcaster"
+    },
+    "Dwarven Plate": {
+        "limits": "plate",
+        "name": "Dwarven Plate",
+        "rarity": "Very Rare",
+        "attunement": "no",
+        "page": "dmg 167",
+        "type": "Armor"
+    },
+    "Wand of Binding": {
+        "page": "dmg 209",
+        "type": "Wand",
+        "attunement": "yes",
+        "limits": "spellcaster",
+        "rarity": "Rare",
+        "name": "Wand of Binding"
+    },
+    "Rope of Climbing": {
+        "rarity": "Uncommon",
+        "name": "Rope of Climbing",
+        "page": "dmg 197",
+        "type": "Wondrous Item",
+        "attunement": "no"
+    },
+    "Tome of Leadership and Influence": {
+        "rarity": "Very Rare",
+        "name": "Tome of Leadership and Influence",
+        "page": "dmg 208",
+        "type": "Wondrous Item",
+        "attunement": "no"
+    },
+    "Potion of Growth": {
+        "name": "Potion of Growth",
+        "rarity": "Uncommon",
+        "attunement": "no",
+        "page": "dmg 187",
+        "type": "Potion"
+    },
+    "Manual of Gainful Exercise": {
+        "type": "Wondrous Item",
+        "page": "dmg 180",
+        "attunement": "no",
+        "rarity": "Very Rare",
+        "name": "Manual of Gainful Exercise"
+    },
+    "Unbreakable Arrow": {
+        "rarity": "Common",
+        "name": "Unbreakable Arrow",
+        "limits": "arrow",
+        "page": "xge 139",
+        "type": "Weapon",
+        "attunement": "no"
+    },
+    "Cloak of Elvenkind": {
+        "type": "Wondrous Item",
+        "page": "dmg 158",
+        "attunement": "yes",
+        "rarity": "Uncommon",
+        "name": "Cloak of Elvenkind"
+    },
+    "Ring of Animal Influence": {
+        "rarity": "Rare",
+        "name": "Ring of Animal Influence",
+        "attunement": "no",
+        "type": "Ring",
+        "page": "dmg 189"
+    },
+    "Wand of Pyrotechnics": {
+        "name": "Wand of Pyrotechnics",
+        "rarity": "Common",
+        "attunement": "no",
+        "page": "xge 140",
+        "type": "Wand"
+    },
+    "Periapt of Wound Closure": {
+        "attunement": "yes",
+        "page": "dmg 184",
+        "type": "Wondrous Item",
+        "name": "Periapt of Wound Closure",
+        "rarity": "Uncommon"
+    },
+    "Potion of Animal Friendship": {
+        "page": "dmg 187",
+        "type": "Potion",
+        "attunement": "no",
+        "rarity": "Uncommon",
+        "name": "Potion of Animal Friendship"
+    },
+    "Charlatan's Die": {
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "xge 136",
+        "name": "Charlatan's Die",
+        "rarity": "Common"
+    },
+    "Wand of Web": {
+        "limits": "spellcaster",
+        "name": "Wand of Web",
+        "rarity": "Uncommon",
+        "page": "dmg 212",
+        "type": "Wand",
+        "attunement": "yes"
+    },
+    "Ring of Free Action": {
+        "type": "Ring",
+        "page": "dmg 191",
+        "attunement": "yes",
+        "name": "Ring of Free Action",
+        "rarity": "Rare"
+    },
+    "Orb of Time": {
+        "attunement": "no",
+        "page": "xge 138",
+        "type": "Wondrous Item",
+        "rarity": "Common",
+        "name": "Orb of Time"
+    },
+    "Tentacle Rod": {
+        "type": "Rod",
+        "page": "dmg 208",
+        "attunement": "yes",
+        "rarity": "Rare",
+        "name": "Tentacle Rod"
+    },
+    "Saddle of the Cavalier": {
+        "type": "Wondrous Item",
+        "page": "dmg 199",
+        "attunement": "no",
+        "name": "Saddle of the Cavalier",
+        "rarity": "Uncommon"
+    },
+    "Ring of Fire Elemental Command": {
+        "attunement": "yes",
+        "page": "dmg 190",
+        "type": "Ring",
+        "name": "Ring of Fire Elemental Command",
+        "rarity": "Legendary"
+    },
+    "Stone of Good Luck": {
+        "rarity": "Uncommon",
+        "name": "Stone of Good Luck",
+        "page": "dmg 205",
+        "type": "Wondrous Item",
+        "attunement": "yes"
+    },
+    "Manual of Quickness of Action": {
+        "type": "Wondrous Item",
+        "page": "dmg 181",
+        "attunement": "no",
+        "name": "Manual of Quickness of Action",
+        "rarity": "Very Rare"
+    },
+    "Weapon, +1": {
+        "attunement": "no",
+        "type": "Weapon",
+        "page": "dmg 213",
+        "name": "Weapon, +1",
+        "rarity": "Uncommon"
+    },
+    "Tankard of Sobriety": {
+        "attunement": "no",
+        "page": "xge 139",
+        "type": "Wondrous Item",
+        "rarity": "Common",
+        "name": "Tankard of Sobriety"
+    },
+    "Cloak of Arachnida": {
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 158",
+        "rarity": "Very Rare",
+        "name": "Cloak of Arachnida"
+    },
+    "Frost Brand": {
+        "attunement": "yes",
+        "type": "Weapon",
+        "page": "dmg 171",
+        "limits": "any sword",
+        "rarity": "Very Rare",
+        "name": "Frost Brand"
+    },
+    "Eyes of the Eagle": {
+        "rarity": "Uncommon",
+        "name": "Eyes of the Eagle",
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 168"
+    },
+    "Horn of Valhalla, Bronze": {
+        "rarity": "Very Rare",
+        "name": "Horn of Valhalla, Bronze",
+        "attunement": "no",
+        "page": "dmg 175",
+        "type": "Wondrous Item"
+    },
+    "Staff of Withering": {
+        "attunement": "yes",
+        "type": "Staff",
+        "page": "dmg 205",
+        "name": "Staff of Withering",
+        "rarity": "Rare",
+        "limits": "cleric, druid, or warlock"
+    },
+    "Cloak of the Bat": {
+        "rarity": "Rare",
+        "name": "Cloak of the Bat",
+        "attunement": "yes",
+        "page": "dmg 159",
+        "type": "Wondrous Item"
+    },
+    "Quaal's Feather Token": {
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 188",
+        "rarity": "Rare",
+        "srd_name": "Feather Token",
+        "name": "Quaal's Feather Token"
+    },
+    "Helm of Brilliance": {
+        "rarity": "Very Rare",
+        "name": "Helm of Brilliance",
+        "page": "dmg 173",
+        "type": "Wondrous Item",
+        "attunement": "yes"
+    },
+    "Sword of Vengeance": {
+        "limits": "any sword",
+        "rarity": "Uncommon",
+        "name": "Sword of Vengeance",
+        "attunement": "yes",
+        "page": "dmg 206",
+        "type": "Weapon"
+    },
+    "Rod of Alertness": {
+        "attunement": "yes",
+        "type": "Rod",
+        "page": "dmg 196",
+        "rarity": "Very Rare",
+        "name": "Rod of Alertness"
+    },
+    "Hat of Vermin": {
+        "type": "Wondrous Item",
+        "page": "xge 137",
+        "attunement": "no",
+        "name": "Hat of Vermin",
+        "rarity": "Common"
+    },
+    "Spell Scroll, 2nd Level": {
+        "type": "Scroll",
+        "page": "dmg 200",
+        "attunement": "no",
+        "rarity": "Uncommon",
+        "name": "Spell Scroll, 2nd Level"
+    },
+    "Heward's Handy Haversack": {
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 174",
+        "srd_name": "Handy Haversack",
+        "name": "Heward's Handy Haversack",
+        "rarity": "Rare"
+    },
+    "Potion of Invulnerability": {
+        "rarity": "Rare",
+        "name": "Potion of Invulnerability",
+        "type": "Potion",
+        "page": "dmg 188",
+        "attunement": "no"
+    },
+    "Ear Horn of Hearing": {
+        "name": "Ear Horn of Hearing",
+        "rarity": "Common",
+        "attunement": "no",
+        "page": "xge 137",
+        "type": "Wondrous Item"
+    },
+    "Sovereign Glue": {
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 200",
+        "rarity": "Legendary",
+        "name": "Sovereign Glue"
+    },
+    "Potion of Water Breathing": {
+        "name": "Potion of Water Breathing",
+        "rarity": "Uncommon",
+        "type": "Potion",
+        "page": "dmg 188",
+        "attunement": "no"
+    },
+    "Instrument of the Bards, Doss Lute": {
+        "attunement": "yes",
+        "page": "dmg 176",
+        "type": "Wondrous Item",
+        "name": "Instrument of the Bards, Doss Lute",
+        "rarity": "Uncommon",
+        "limits": "bard"
+    },
+    "Ersatz Eye": {
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "xge 137",
+        "name": "Ersatz Eye",
+        "rarity": "Common"
+    },
+    "Boots of False Tracks": {
+        "type": "Wondrous Item",
+        "page": "xge 136",
+        "attunement": "no",
+        "name": "Boots of False Tracks",
+        "rarity": "Common"
+    },
+    "Helm of Teleportation": {
+        "name": "Helm of Teleportation",
+        "rarity": "Rare",
+        "attunement": "yes",
+        "page": "dmg 174",
+        "type": "Wondrous Item"
+    },
+    "Figurine of Wondrous Power, Ivory Goats": {
+        "type": "Wondrous Item",
+        "page": "dmg 169",
+        "attunement": "no",
+        "name": "Figurine of Wondrous Power, Ivory Goats",
+        "rarity": "Rare"
+    },
+    "Ioun Stone, Awareness": {
+        "name": "Ioun Stone, Awareness",
+        "rarity": "Rare",
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 176"
+    },
+    "Wand of Lightning Bolts": {
+        "limits": "spellcaster",
+        "name": "Wand of Lightning Bolts",
+        "rarity": "Rare",
+        "type": "Wand",
+        "page": "dmg 211",
+        "attunement": "yes"
+    },
+    "Bowl of Commanding Water Elementals": {
+        "name": "Bowl of Commanding Water Elementals",
+        "rarity": "Rare",
+        "page": "dmg 156",
+        "type": "Wondrous Item",
+        "attunement": "no"
+    },
+    "Ioun Stone, Leadership": {
+        "name": "Ioun Stone, Leadership",
+        "rarity": "Very Rare",
+        "attunement": "yes",
+        "page": "dmg 176",
+        "type": "Wondrous Item"
+    },
+    "Horn of Silent Alarm": {
+        "attunement": "no",
+        "page": "xge 137",
+        "type": "Wondrous Item",
+        "rarity": "Common",
+        "name": "Horn of Silent Alarm"
+    },
+    "Ring of Spell Storing": {
+        "rarity": "Rare",
+        "name": "Ring of Spell Storing",
+        "attunement": "yes",
+        "page": "dmg 192",
+        "type": "Ring"
+    },
+    "Belt of Hill Giant Strength": {
+        "type": "Wondrous Item",
+        "page": "dmg 155",
+        "attunement": "yes",
+        "name": "Belt of Hill Giant Strength",
+        "rarity": "Rare"
+    },
+    "Flame Tongue": {
+        "limits": "any sword",
+        "name": "Flame Tongue",
+        "rarity": "Rare",
+        "attunement": "yes",
+        "page": "dmg 170",
+        "type": "Weapon"
+    },
+    "Horseshoes of Speed": {
+        "name": "Horseshoes of Speed",
+        "rarity": "Rare",
+        "page": "dmg 175",
+        "type": "Wondrous Item",
+        "attunement": "no"
+    },
+    "Demon Armor": {
+        "attunement": "yes",
+        "type": "Armor",
+        "page": "dmg 165",
+        "rarity": "Very Rare",
+        "name": "Demon Armor",
+        "limits": "plate"
+    },
+    "Lock of Trickery": {
+        "rarity": "Common",
+        "name": "Lock of Trickery",
+        "attunement": "no",
+        "page": "xge 138",
+        "type": "Wondrous Item"
+    },
+    "Potion of Mind Reading": {
+        "name": "Potion of Mind Reading",
+        "rarity": "Rare",
+        "attunement": "no",
+        "type": "Potion",
+        "page": "dmg 188"
+    },
+    "Talisman of Pure Good": {
+        "limits": "good alignment",
+        "name": "Talisman of Pure Good",
+        "rarity": "Legendary",
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 207"
+    },
+    "Mystery Key": {
+        "rarity": "Common",
+        "name": "Mystery Key",
+        "attunement": "no",
+        "page": "xge 138",
+        "type": "Wondrous Item"
+    },
+    "Staff of Adornment": {
+        "attunement": "no",
+        "page": "xge 139",
+        "type": "Staff",
+        "name": "Staff of Adornment",
+        "rarity": "Common"
+    },
+    "Orb of Direction": {
+        "name": "Orb of Direction",
+        "rarity": "Common",
+        "attunement": "no",
+        "page": "xge 138",
+        "type": "Wondrous Item"
+    },
+    "Trident of Fish Command": {
+        "page": "dmg 209",
+        "type": "Weapon",
+        "attunement": "yes",
+        "name": "Trident of Fish Command",
+        "rarity": "Uncommon",
+        "limits": "trident"
+    },
+    "Dust of Sneezing and Choking": {
+        "rarity": "Uncommon",
+        "name": "Dust of Sneezing and Choking",
+        "attunement": "no",
+        "page": "dmg 166",
+        "type": "Wondrous Item"
+    },
+    "Ioun Stone, Strength": {
+        "attunement": "yes",
+        "page": "dmg 176",
+        "type": "Wondrous Item",
+        "name": "Ioun Stone, Strength",
+        "rarity": "Very Rare"
+    },
+    "Sending Stones": {
+        "type": "Wondrous Item",
+        "page": "dmg 199",
+        "attunement": "no",
+        "rarity": "Uncommon",
+        "name": "Sending Stones"
+    },
+    "Spell Scroll, 3rd Level": {
+        "attunement": "no",
+        "page": "dmg 200",
+        "type": "Scroll",
+        "name": "Spell Scroll, 3rd Level",
+        "rarity": "Uncommon"
+    },
+    "Boots of Elvenkind": {
+        "rarity": "Uncommon",
+        "name": "Boots of Elvenkind",
+        "page": "dmg 155",
+        "type": "Wondrous Item",
+        "attunement": "no"
+    },
+    "Rope of Entanglement": {
+        "attunement": "no",
+        "page": "dmg 197",
+        "type": "Wondrous Item",
+        "rarity": "Rare",
+        "name": "Rope of Entanglement"
+    },
+    "Crystal Ball of Mind Reading": {
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 159",
+        "rarity": "Legendary",
+        "name": "Crystal Ball of Mind Reading"
+    },
+    "Staff of the Woodlands": {
+        "attunement": "yes",
+        "type": "Staff",
+        "page": "dmg 204",
+        "limits": "druid",
+        "rarity": "Rare",
+        "name": "Staff of the Woodlands"
+    },
+    "Wand of Enemy Detection": {
+        "name": "Wand of Enemy Detection",
+        "rarity": "Rare",
+        "attunement": "yes",
+        "page": "dmg 210",
+        "type": "Wand"
+    },
+    "Armor of Gleaming": {
+        "limits": "medium or heavy",
+        "rarity": "Common",
+        "name": "Armor of Gleaming",
+        "attunement": "no",
+        "page": "xge 136",
+        "type": "Armor"
+    },
+    "Potion of Speed": {
+        "page": "dmg 188",
+        "type": "Potion",
+        "attunement": "no",
+        "rarity": "Very Rare",
+        "name": "Potion of Speed"
+    },
+    "Figurine of Wondrous Power, Ebony Fly": {
+        "attunement": "no",
+        "page": "dmg 169",
+        "type": "Wondrous Item",
+        "name": "Figurine of Wondrous Power, Ebony Fly",
+        "rarity": "Rare"
+    },
+    "Ring of Water Walking": {
+        "rarity": "Uncommon",
+        "name": "Ring of Water Walking",
+        "attunement": "no",
+        "type": "Ring",
+        "page": "dmg 193"
+    },
+    "Belt of Cloud Giant Strength": {
+        "name": "Belt of Cloud Giant Strength",
+        "rarity": "Legendary",
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 155"
+    },
+    "Immovable Rod": {
+        "attunement": "no",
+        "type": "Rod",
+        "page": "dmg 175",
+        "name": "Immovable Rod",
+        "rarity": "Uncommon"
+    },
+    "Dust of Dryness": {
+        "rarity": "Uncommon",
+        "name": "Dust of Dryness",
+        "attunement": "no",
+        "page": "dmg 166",
+        "type": "Wondrous Item"
+    },
+    "Amulet of the Planes": {
+        "name": "Amulet of the Planes",
+        "rarity": "Very Rare",
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 150"
+    },
+    "Rod of the Pact Keeper, +2": {
+        "attunement": "yes",
+        "type": "Rod",
+        "page": "dmg 197",
+        "rarity": "Rare",
+        "name": "Rod of the Pact Keeper, +2",
+        "limits": "warlock"
+    },
+    "Robe of Stars": {
+        "name": "Robe of Stars",
+        "rarity": "Very Rare",
+        "type": "Wondrous Item",
+        "page": "dmg 194",
+        "attunement": "yes"
+    },
+    "Rod of the Pact Keeper, +1": {
+        "attunement": "yes",
+        "type": "Rod",
+        "page": "dmg 197",
+        "name": "Rod of the Pact Keeper, +1",
+        "rarity": "Uncommon",
+        "limits": "warlock"
+    },
+    "Armor, +2": {
+        "attunement": "no",
+        "type": "Armor",
+        "page": "dmg 152",
+        "rarity": "Very Rare",
+        "name": "Armor, +2"
+    },
+    "Deck of Illusions": {
+        "rarity": "Uncommon",
+        "name": "Deck of Illusions",
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 161"
+    },
+    "Luck Blade": {
+        "name": "Luck Blade",
+        "rarity": "Legendary",
+        "limits": "any sword",
+        "attunement": "yes",
+        "type": "Weapon",
+        "page": "dmg 179"
+    },
+    "Staff of Fire": {
+        "type": "Staff",
+        "page": "dmg 201",
+        "attunement": "yes",
+        "rarity": "Very Rare",
+        "name": "Staff of Fire",
+        "limits": "druid, sorcerer, warlock, or wizard"
+    },
+    "Weapon, +3": {
+        "type": "Weapon",
+        "page": "dmg 213",
+        "attunement": "no",
+        "rarity": "Very Rare",
+        "name": "Weapon, +3"
+    },
+    "Carpet of Flying": {
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 157",
+        "name": "Carpet of Flying",
+        "rarity": "Very Rare"
+    },
+    "Wand of Smiles": {
+        "type": "Wand",
+        "page": "xge 140",
+        "attunement": "no",
+        "rarity": "Common",
+        "name": "Wand of Smiles"
+    },
+    "Figurine of Wondrous Power, Serpentine Owl": {
+        "rarity": "Rare",
+        "name": "Figurine of Wondrous Power, Serpentine Owl",
+        "attunement": "no",
+        "page": "dmg 170",
+        "type": "Wondrous Item"
+    },
+    "Portable Hole": {
+        "name": "Portable Hole",
+        "rarity": "Rare",
+        "type": "Wondrous Item",
+        "page": "dmg 185",
+        "attunement": "no"
+    },
+    "Bag of Tricks": {
+        "page": "dmg 154",
+        "type": "Wondrous Item",
+        "attunement": "no",
+        "rarity": "Uncommon",
+        "name": "Bag of Tricks"
+    },
+    "Shield of Expression": {
+        "type": "Armor",
+        "page": "xge 139",
+        "attunement": "no",
+        "limits": "shield",
+        "rarity": "Common",
+        "name": "Shield of Expression"
+    },
+    "Dread Helm": {
+        "attunement": "no",
+        "page": "xge 137",
+        "type": "Wondrous Item",
+        "rarity": "Common",
+        "name": "Dread Helm"
+    },
+    "Belt of Dwarvenkind": {
+        "name": "Belt of Dwarvenkind",
+        "rarity": "Rare",
+        "page": "dmg 155",
+        "type": "Wondrous Item",
+        "attunement": "yes"
+    },
+    "Well of Many Worlds": {
+        "rarity": "Legendary",
+        "name": "Well of Many Worlds",
+        "page": "dmg 213",
+        "type": "Wondrous Item",
+        "attunement": "no"
+    },
+    "Clothes of Mending": {
+        "page": "xge 137",
+        "type": "Wondrous Item",
+        "attunement": "no",
+        "rarity": "Common",
+        "name": "Clothes of Mending"
+    },
+    "Berserker Axe": {
+        "name": "Berserker Axe",
+        "rarity": "Rare",
+        "limits": "any axe",
+        "attunement": "yes",
+        "page": "dmg 155",
+        "type": "Weapon"
+    },
+    "Cloak of Displacement": {
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 158",
+        "name": "Cloak of Displacement",
+        "rarity": "Rare"
+    },
+    "Censer of Controlling Air Elementals": {
+        "page": "dmg 158",
+        "type": "Wondrous Item",
+        "attunement": "no",
+        "name": "Censer of Controlling Air Elementals",
+        "rarity": "Rare"
+    },
+    "Helm of Telepathy": {
+        "rarity": "Uncommon",
+        "name": "Helm of Telepathy",
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 174"
+    },
+    "Bag of Beans": {
+        "name": "Bag of Beans",
+        "rarity": "Rare",
+        "type": "Wondrous Item",
+        "page": "dmg 152",
+        "attunement": "no"
+    },
+    "Necklace of Adaptation": {
+        "type": "Wondrous Item",
+        "page": "dmg 182",
+        "attunement": "yes",
+        "name": "Necklace of Adaptation",
+        "rarity": "Uncommon"
+    },
+    "Potion of Climbing": {
+        "attunement": "no",
+        "type": "Potion",
+        "page": "dmg 187",
+        "rarity": "Common",
+        "name": "Potion of Climbing"
+    },
+    "Tome of Understanding": {
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 209",
+        "rarity": "Very Rare",
+        "name": "Tome of Understanding"
+    },
+    "Figurine of Wondrous Power, Silver Raven": {
+        "rarity": "Uncommon",
+        "name": "Figurine of Wondrous Power, Silver Raven",
+        "attunement": "no",
+        "page": "dmg 170",
+        "type": "Wondrous Item"
+    },
+    "Talisman of Ultimate Evil": {
+        "limits": "evil alignment",
+        "name": "Talisman of Ultimate Evil",
+        "rarity": "Legendary",
+        "page": "dmg 207",
+        "type": "Wondrous Item",
+        "attunement": "yes"
+    },
+    "Gloves of Swimming and Climbing": {
+        "rarity": "Uncommon",
+        "name": "Gloves of Swimming and Climbing",
+        "attunement": "yes",
+        "type": "Wondrous Item",
+        "page": "dmg 172"
+    },
+    "Figurine of Wondrous Power, Onyx Dog": {
+        "attunement": "no",
+        "page": "dmg 170",
+        "type": "Wondrous Item",
+        "name": "Figurine of Wondrous Power, Onyx Dog",
+        "rarity": "Rare"
+    },
+    "Ruby of the War Mage": {
+        "attunement": "yes",
+        "page": "xge 138",
+        "type": "Wondrous Item",
+        "limits": "spellcaster",
+        "name": "Ruby of the War Mage",
+        "rarity": "Common"
+    },
+    "Decanter of Endless Water": {
+        "page": "dmg 161",
+        "type": "Wondrous Item",
+        "attunement": "no",
+        "rarity": "Uncommon",
+        "name": "Decanter of Endless Water"
+    },
+    "Plate Armor of Etherealness": {
+        "name": "Plate Armor of Etherealness",
+        "rarity": "Legendary",
+        "limits": "plate",
+        "type": "Armor",
+        "page": "dmg 185",
+        "attunement": "yes"
+    },
+    "Arrow of Slaying": {
+        "limits": "arrow",
+        "name": "Arrow of Slaying",
+        "rarity": "Very Rare",
+        "page": "dmg 152",
+        "type": "Weapon",
+        "attunement": "no"
+    },
+    "Circlet of Blasting": {
+        "rarity": "Uncommon",
+        "name": "Circlet of Blasting",
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 158"
+    },
+    "Ioun Stone, Mastery": {
+        "attunement": "yes",
+        "page": "dmg 176",
+        "type": "Wondrous Item",
+        "name": "Ioun Stone, Mastery",
+        "rarity": "Legendary"
+    },
+    "Mariner's Armor": {
+        "rarity": "Uncommon",
+        "name": "Mariner's Armor",
+        "page": "dmg 181",
+        "type": "Armor",
+        "attunement": "no"
+    },
+    "Oil of Slipperiness": {
+        "name": "Oil of Slipperiness",
+        "rarity": "Uncommon",
+        "type": "Potion",
+        "page": "dmg 184",
+        "attunement": "no"
+    },
+    "Spell Scroll, 7th Level": {
+        "name": "Spell Scroll, 7th Level",
+        "rarity": "Very Rare",
+        "attunement": "no",
+        "type": "Scroll",
+        "page": "dmg 200"
+    },
+    "Wand of Magic Missiles": {
+        "attunement": "no",
+        "page": "dmg 211",
+        "type": "Wand",
+        "name": "Wand of Magic Missiles",
+        "rarity": "Uncommon"
+    },
+    "Staff of the Adder": {
+        "page": "dmg 203",
+        "type": "Staff",
+        "attunement": "yes",
+        "limits": "cleric, druid, or warlock",
+        "rarity": "Uncommon",
+        "name": "Staff of the Adder"
+    },
+    "Spell Scroll, 5th Level": {
+        "name": "Spell Scroll, 5th Level",
+        "rarity": "Rare",
+        "page": "dmg 200",
+        "type": "Scroll",
+        "attunement": "no"
+    },
+    "Boots of Levitation": {
+        "type": "Wondrous Item",
+        "page": "dmg 155",
+        "attunement": "yes",
+        "rarity": "Rare",
+        "name": "Boots of Levitation"
+    },
+    "Iron Bands of Bilarro": {
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 177",
+        "rarity": "Rare",
+        "srd_name": "Iron Bands of Binding",
+        "name": "Iron Bands of Bilarro"
+    },
+    "Elixir of Health": {
+        "attunement": "no",
+        "page": "dmg 168",
+        "type": "Potion",
+        "rarity": "Rare",
+        "name": "Elixir of Health"
+    },
+    "Giant Slayer": {
+        "name": "Giant Slayer",
+        "rarity": "Rare",
+        "limits": "any axe or sword",
+        "page": "dmg 172",
+        "type": "Weapon",
+        "attunement": "no"
+    },
+    "Staff of Healing": {
+        "limits": "bard, cleric, or druid",
+        "rarity": "Rare",
+        "name": "Staff of Healing",
+        "page": "dmg 202",
+        "type": "Staff",
+        "attunement": "yes"
+    },
+    "Horn of Valhalla, Silver": {
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 175",
+        "rarity": "Rare",
+        "name": "Horn of Valhalla, Silver"
+    },
+    "Heward's Handy Spice Pouch": {
+        "rarity": "Common",
+        "name": "Heward's Handy Spice Pouch",
+        "attunement": "no",
+        "page": "xge 137",
+        "type": "Wondrous Item"
+    },
+    "Robe of Scintillating Colors": {
+        "attunement": "yes",
+        "page": "dmg 194",
+        "type": "Wondrous Item",
+        "rarity": "Very Rare",
+        "name": "Robe of Scintillating Colors"
+    },
+    "Bag of Devouring": {
+        "attunement": "no",
+        "type": "Wondrous Item",
+        "page": "dmg 153",
+        "rarity": "Very Rare",
+        "name": "Bag of Devouring"
+    },
+    "Spell Scroll, 9th Level": {
+        "name": "Spell Scroll, 9th Level",
+        "rarity": "Legendary",
+        "attunement": "no",
+        "type": "Scroll",
+        "page": "dmg 200"
+    },
+    "Tome of Clear Thought": {
+        "type": "Wondrous Item",
+        "page": "dmg 208",
+        "attunement": "no",
+        "name": "Tome of Clear Thought",
+        "rarity": "Very Rare"
+    },
+    "Scimitar of Speed": {
+        "limits": "scimitar",
+        "rarity": "Very Rare",
+        "name": "Scimitar of Speed",
+        "type": "Weapon",
+        "page": "dmg 199",
+        "attunement": "yes"
+    },
+    "Staff of Striking": {
+        "attunement": "yes",
+        "page": "dmg 203",
+        "type": "Staff",
+        "rarity": "Very Rare",
+        "name": "Staff of Striking"
+    },
+    "Elven Chain": {
+        "rarity": "Rare",
+        "name": "Elven Chain",
+        "limits": "chain shirt",
+        "type": "Armor",
+        "page": "dmg 168",
+        "attunement": "no"
+    }
+}
