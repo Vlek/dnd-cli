@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """
 Dice roller CLI Script
 
@@ -7,6 +9,7 @@ math functions, including parens!
 1d20 -> 19
 1d8 + 3d6 + 5 -> 15
 d% -> 42
+<Nothing> -> 14 (Rolls a d20)
 etc.
 """
 
@@ -68,11 +71,11 @@ expression_grammar = parsley.makeGrammar("""
     div = '/' ws expr3:n -> ('/', n)
     percentage_die = 'd' ws '%' -> ('d', 100)
     die = 'd' ws value:n -> ('d', n)
-    
+
     add_sub = ws (add | sub)
     mul_div = ws (mul | div)
     dice = ws (die | percentage_die)
-    
+
     expr = expr2:left add_sub*:right -> calculate(left, right)
     expr2 = expr3:left mul_div*:right -> calculate(left, right)
     expr3 = (value|ws):left dice*:right -> calculate(left, right)
@@ -81,12 +84,36 @@ expression_grammar = parsley.makeGrammar("""
 
 @click.command()
 @click.argument('expression', nargs=-1, type=str)
-@click.option('-v', '--verbose', 'verbose', is_flag=True)
+@click.option('-v', '--verbose', 'verbose', is_flag=True,
+              help='Print the individual die roll values')
 def roll(expression: [str], verbose: bool) -> None:
+    """
+    A cli command for rolling dice and adding modifiers in the
+    same fashion as the node.js version on npm.
+
+    Usage:
+
+        roll <nothing> -> Rolls 1d20
+
+        roll <expression> -> Rolls all dice + does math
+
+    Expressions:
+
+        1d20         - Rolls one 20-sided die
+
+        d20          - Does not require a '1' in front of 'd'
+
+        d%           - Rolls 1d100
+
+        d8 + 3d6 + 5 - Rolls 1d8, 3d6, and adds everything together
+    """
 
     # TODO: Handle negative numbers
 
     command_input = ' '.join(expression)
+
+    if command_input == '':
+        command_input = "1d20"
 
     if not fullmatch('[\dd+\-\\\*() %]+', command_input):
         raise Exception('Input contained invalid characters.')

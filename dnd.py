@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """
 Dungeons and Dragons 5th ed. CLI Script
 
